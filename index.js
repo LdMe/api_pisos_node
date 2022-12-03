@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ limit: '30mb', extended: true }));
 
 app.use('/prices', prices);
 
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => console.log(`Server running on port: ${PORT}`))
 
