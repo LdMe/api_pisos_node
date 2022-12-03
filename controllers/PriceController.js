@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = 'http://172.23.0.2:9000/api/v1';
+const URL = 'http://mapa_pisos:9000/api/v1';
 
 export const getPrices = async (req, res) => {
     try {
