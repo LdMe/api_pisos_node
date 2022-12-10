@@ -83,6 +83,8 @@ const cleanPredictedPrices = (predicted_prices) => {
 export const getPrices = async (req, res) => {
     try {
         const params = req.query;
+        params.terrace ? params.terrace = 1 : params.terrace = 0;
+        params.elevator ? params.elevator = 1 : params.elevator = 0;
         var attributes = await getOrCreate(HouseAttributes,{ surface: params.surface, bedrooms: params.bedrooms, restrooms: params.restrooms, terrace: params.terrace, elevator: params.elevator, floor: params.floor, type: params.type});
         //console.log("params", params);
         const is_province = true;
