@@ -12,7 +12,6 @@ const predict = (params) => {
 
 const getOrCreate = async (model, params) => {
     const instance = await model.findOne({ where: params , raw: true});
-    //console.log("instance", instance);
     if (instance === null) {
         return await model.create(params);
     }
@@ -58,10 +57,9 @@ const calculatePrices = async (params,todo_dates) => {
             var newPrice = await Price.create({ lower: price.lower, middle: price.middle, upper: price.upper, attributes: attributes.id, date: new_date.id, location: location.id });
 
         }
-        //logger.log("new price", response.data);
         prices = prices.concat(response.data);
     }
-    //logger.log("calculated prices", prices);
+
     return prices;
 }
 const cleanSavedPrices = (saved_prices) => {
@@ -83,38 +81,29 @@ const cleanPredictedPrices = (predicted_prices) => {
 export const getPrices = async (req, res) => {
     try {
         const params = req.query;
-        params.terrace ? params.terrace = 1 : params.terrace = 0;
-        params.elevator ? params.elevator = 1 : params.elevator = 0;
+        logger.log("terrace: ", params.terrace);
+        logger.log("elevator: ", params.elevator);
+        params.terrace.includes("true") ? params.terrace = 1 : params.terrace = 0;
+        params.elevator.includes("true") ? params.elevator = 1 : params.elevator = 0;
         var attributes = await getOrCreate(HouseAttributes,{ surface: params.surface, bedrooms: params.bedrooms, restrooms: params.restrooms, terrace: params.terrace, elevator: params.elevator, floor: params.floor, type: params.type});
-        //console.log("params", params);
+
         const is_province = true;
         params.provinces.split(",").map(async (province) => {
             var location = await getOrCreate(Location,{ name: province, is_province: is_province }); 
-            //console.log("location", location);
+
         });
         params.dates.split(",").map(async (date) => {
             var new_date = await getOrCreate(Date,{ date: date });
-            //console.log("date", new_date);
         });
         const datos = await filterAlreadySavedPrices(attributes,params.provinces.split(","),params.dates.split(","));
         const todo_dates = datos.dates;
         const saved_prices = cleanSavedPrices(datos.prices);
-        logger.log("saved_prices",saved_prices);
         const new_prices = await calculatePrices(params,todo_dates);
-        logger.log("new_prices",new_prices);
         const predicted_prices = cleanPredictedPrices(new_prices);
-        logger.log("predicted_prices",saved_prices.concat(predicted_prices));
         const unsortedPrices = saved_prices.concat(predicted_prices);
        
         const sortedPrices = unsortedPrices.sort((a,b) => (a.location_name.localeCompare(b.location_name) || a.year - b.year || a.month - b.month))
         const prices = { data: sortedPrices };
-        //console.log("prices", prices.data);
-        /*prices.data.map (async (price) => {
-            var date = await getOrCreate(Date,{ date: price.date });
-            var location = await getOrCreate(Location,{ name: price.location_name, is_province: is_province });
-            var new_price = await getOrCreate(Price,{ lower: price.lower, middle: price.middle, upper: price.upper, attributes: attributes.id, date: date.id, location: location.id });    
-        });
-        */
         res.status(200).json(prices.data);
     }
     catch (error) {
@@ -156,7 +145,6 @@ export const getDates = async (req, res) => {
 export const getGraph = async (req, res) => {
     try {
         const data = req.body;
-        //console.log("data", data);
         const uri = req.params.uri;
         const graph = await axios.post(URL +'/graph',data);
         res.status(200).json(graph.data);
