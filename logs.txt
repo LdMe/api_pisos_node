@@ -1,0 +1,8084 @@
+saved_prices []
+new_prices [
+  {
+    lower: 409,
+    middle: 535,
+    upper: 628,
+    location_name: 'Albacete',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 584,
+    middle: 540,
+    upper: 1181,
+    location_name: 'Gipuzkoa',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 533,
+    middle: 528,
+    upper: 573,
+    location_name: 'Albacete',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 1171,
+    middle: 1001,
+    upper: 2899,
+    location_name: 'Gipuzkoa',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 468,
+    middle: 451,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 852,
+    middle: 789,
+    upper: 1100,
+    location_name: 'Gipuzkoa',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 487,
+    middle: 583,
+    upper: 849,
+    location_name: 'Albacete',
+    date: '10/2022',
+    month: 10,
+    year: 2022
+  },
+  {
+    lower: 486,
+    middle: 839,
+    upper: 1152,
+    location_name: 'Gipuzkoa',
+    date: '10/2022',
+    month: 10,
+    year: 2022
+  }
+]
+predicted_prices [
+  {
+    lower: 409,
+    middle: 535,
+    upper: 628,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 584,
+    middle: 540,
+    upper: 1181,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 528,
+    upper: 573,
+    location_name: 'Albacete',
+    date: '8/2022'
+  },
+  {
+    lower: 1171,
+    middle: 1001,
+    upper: 2899,
+    location_name: 'Gipuzkoa',
+    date: '8/2022'
+  },
+  {
+    lower: 468,
+    middle: 451,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 852,
+    middle: 789,
+    upper: 1100,
+    location_name: 'Gipuzkoa',
+    date: '9/2022'
+  },
+  {
+    lower: 487,
+    middle: 583,
+    upper: 849,
+    location_name: 'Albacete',
+    date: '10/2022'
+  },
+  {
+    lower: 486,
+    middle: 839,
+    upper: 1152,
+    location_name: 'Gipuzkoa',
+    date: '10/2022'
+  }
+]
+saved_prices []
+new_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  }
+]
+predicted_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  }
+]
+saved_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  }
+]
+new_prices [
+  {
+    lower: 443,
+    middle: 458,
+    upper: 712,
+    location_name: 'Almería',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 390,
+    middle: 441,
+    upper: 553,
+    location_name: 'Asturias',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 461,
+    middle: 428,
+    upper: 532,
+    location_name: 'Badajoz',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 733,
+    middle: 925,
+    upper: 1668,
+    location_name: 'Barcelona',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 742,
+    middle: 837,
+    upper: 1072,
+    location_name: 'Bizkaia',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 491,
+    middle: 539,
+    upper: 688,
+    location_name: 'Burgos',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 472,
+    middle: 607,
+    upper: 899,
+    location_name: 'Cantabria',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 642,
+    middle: 2162,
+    upper: 735,
+    location_name: 'Castelló',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 200,
+    middle: 308,
+    upper: 396,
+    location_name: 'Ciudad Real',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 449,
+    middle: 454,
+    upper: 750,
+    location_name: 'Cuenca',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 450,
+    middle: 396,
+    upper: 533,
+    location_name: 'Cáceres',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 450,
+    middle: 571,
+    upper: 681,
+    location_name: 'Cádiz',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 417,
+    middle: 534,
+    upper: 703,
+    location_name: 'Córdoba',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 827,
+    middle: 841,
+    upper: 1261,
+    location_name: 'Gipuzkoa',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 682,
+    middle: 693,
+    upper: 1026,
+    location_name: 'Girona',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 464,
+    middle: 635,
+    upper: 850,
+    location_name: 'Granada',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 447,
+    middle: 589,
+    upper: 651,
+    location_name: 'Guadalajara',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 349,
+    middle: 505,
+    upper: 528,
+    location_name: 'Huelva',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 457,
+    middle: 502,
+    upper: 525,
+    location_name: 'Huesca',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 814,
+    middle: 1097,
+    upper: 2068,
+    location_name: 'Illes Balears',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 326,
+    middle: 454,
+    upper: 600,
+    location_name: 'Jaén',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 407,
+    middle: 426,
+    upper: 795,
+    location_name: 'La Rioja',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 639,
+    middle: 662,
+    upper: 898,
+    location_name: 'Las Palmas',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 433,
+    middle: 478,
+    upper: 735,
+    location_name: 'León',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 546,
+    middle: 579,
+    upper: 623,
+    location_name: 'Lleida',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 353,
+    middle: 397,
+    upper: 521,
+    location_name: 'Lugo',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 707,
+    middle: 869,
+    upper: 1497,
+    location_name: 'Madrid',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 420,
+    middle: 548,
+    upper: 1481,
+    location_name: 'Murcia',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 569,
+    middle: 645,
+    upper: 868,
+    location_name: 'Málaga',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 649,
+    middle: 718,
+    upper: 1152,
+    location_name: 'Navarra',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 394,
+    middle: 491,
+    upper: 552,
+    location_name: 'Ourense',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 424,
+    middle: 497,
+    upper: 600,
+    location_name: 'Palencia',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 403,
+    middle: 419,
+    upper: 695,
+    location_name: 'Pontevedra',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 492,
+    middle: 577,
+    upper: 623,
+    location_name: 'Salamanca',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 514,
+    middle: 610,
+    upper: 1078,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 505,
+    middle: 919,
+    upper: 1156,
+    location_name: 'Segovia',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 608,
+    middle: 509,
+    upper: 901,
+    location_name: 'Sevilla',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 387,
+    middle: 526,
+    upper: 624,
+    location_name: 'Soria',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 549,
+    middle: 549,
+    upper: 715,
+    location_name: 'Tarragona',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 350,
+    middle: 469,
+    upper: 650,
+    location_name: 'Teruel',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 491,
+    middle: 470,
+    upper: 570,
+    location_name: 'Toledo',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 377,
+    middle: 549,
+    upper: 674,
+    location_name: 'Valladolid',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 513,
+    middle: 517,
+    upper: 1375,
+    location_name: 'València',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 250,
+    middle: 256,
+    upper: 380,
+    location_name: 'Zamora',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 539,
+    middle: 588,
+    upper: 724,
+    location_name: 'Zaragoza',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  },
+  {
+    lower: 319,
+    middle: 416,
+    upper: 509,
+    location_name: 'Ávila',
+    date: '9/2022',
+    month: 9,
+    year: 2022
+  }
+]
+predicted_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  },
+  {
+    lower: 443,
+    middle: 458,
+    upper: 712,
+    location_name: 'Almería',
+    date: '9/2022'
+  },
+  {
+    lower: 390,
+    middle: 441,
+    upper: 553,
+    location_name: 'Asturias',
+    date: '9/2022'
+  },
+  {
+    lower: 461,
+    middle: 428,
+    upper: 532,
+    location_name: 'Badajoz',
+    date: '9/2022'
+  },
+  {
+    lower: 733,
+    middle: 925,
+    upper: 1668,
+    location_name: 'Barcelona',
+    date: '9/2022'
+  },
+  {
+    lower: 742,
+    middle: 837,
+    upper: 1072,
+    location_name: 'Bizkaia',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 539,
+    upper: 688,
+    location_name: 'Burgos',
+    date: '9/2022'
+  },
+  {
+    lower: 472,
+    middle: 607,
+    upper: 899,
+    location_name: 'Cantabria',
+    date: '9/2022'
+  },
+  {
+    lower: 642,
+    middle: 2162,
+    upper: 735,
+    location_name: 'Castelló',
+    date: '9/2022'
+  },
+  {
+    lower: 200,
+    middle: 308,
+    upper: 396,
+    location_name: 'Ciudad Real',
+    date: '9/2022'
+  },
+  {
+    lower: 449,
+    middle: 454,
+    upper: 750,
+    location_name: 'Cuenca',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 396,
+    upper: 533,
+    location_name: 'Cáceres',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 571,
+    upper: 681,
+    location_name: 'Cádiz',
+    date: '9/2022'
+  },
+  {
+    lower: 417,
+    middle: 534,
+    upper: 703,
+    location_name: 'Córdoba',
+    date: '9/2022'
+  },
+  {
+    lower: 827,
+    middle: 841,
+    upper: 1261,
+    location_name: 'Gipuzkoa',
+    date: '9/2022'
+  },
+  {
+    lower: 682,
+    middle: 693,
+    upper: 1026,
+    location_name: 'Girona',
+    date: '9/2022'
+  },
+  {
+    lower: 464,
+    middle: 635,
+    upper: 850,
+    location_name: 'Granada',
+    date: '9/2022'
+  },
+  {
+    lower: 447,
+    middle: 589,
+    upper: 651,
+    location_name: 'Guadalajara',
+    date: '9/2022'
+  },
+  {
+    lower: 349,
+    middle: 505,
+    upper: 528,
+    location_name: 'Huelva',
+    date: '9/2022'
+  },
+  {
+    lower: 457,
+    middle: 502,
+    upper: 525,
+    location_name: 'Huesca',
+    date: '9/2022'
+  },
+  {
+    lower: 814,
+    middle: 1097,
+    upper: 2068,
+    location_name: 'Illes Balears',
+    date: '9/2022'
+  },
+  {
+    lower: 326,
+    middle: 454,
+    upper: 600,
+    location_name: 'Jaén',
+    date: '9/2022'
+  },
+  {
+    lower: 407,
+    middle: 426,
+    upper: 795,
+    location_name: 'La Rioja',
+    date: '9/2022'
+  },
+  {
+    lower: 639,
+    middle: 662,
+    upper: 898,
+    location_name: 'Las Palmas',
+    date: '9/2022'
+  },
+  {
+    lower: 433,
+    middle: 478,
+    upper: 735,
+    location_name: 'León',
+    date: '9/2022'
+  },
+  {
+    lower: 546,
+    middle: 579,
+    upper: 623,
+    location_name: 'Lleida',
+    date: '9/2022'
+  },
+  {
+    lower: 353,
+    middle: 397,
+    upper: 521,
+    location_name: 'Lugo',
+    date: '9/2022'
+  },
+  {
+    lower: 707,
+    middle: 869,
+    upper: 1497,
+    location_name: 'Madrid',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 548,
+    upper: 1481,
+    location_name: 'Murcia',
+    date: '9/2022'
+  },
+  {
+    lower: 569,
+    middle: 645,
+    upper: 868,
+    location_name: 'Málaga',
+    date: '9/2022'
+  },
+  {
+    lower: 649,
+    middle: 718,
+    upper: 1152,
+    location_name: 'Navarra',
+    date: '9/2022'
+  },
+  {
+    lower: 394,
+    middle: 491,
+    upper: 552,
+    location_name: 'Ourense',
+    date: '9/2022'
+  },
+  {
+    lower: 424,
+    middle: 497,
+    upper: 600,
+    location_name: 'Palencia',
+    date: '9/2022'
+  },
+  {
+    lower: 403,
+    middle: 419,
+    upper: 695,
+    location_name: 'Pontevedra',
+    date: '9/2022'
+  },
+  {
+    lower: 492,
+    middle: 577,
+    upper: 623,
+    location_name: 'Salamanca',
+    date: '9/2022'
+  },
+  {
+    lower: 514,
+    middle: 610,
+    upper: 1078,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '9/2022'
+  },
+  {
+    lower: 505,
+    middle: 919,
+    upper: 1156,
+    location_name: 'Segovia',
+    date: '9/2022'
+  },
+  {
+    lower: 608,
+    middle: 509,
+    upper: 901,
+    location_name: 'Sevilla',
+    date: '9/2022'
+  },
+  {
+    lower: 387,
+    middle: 526,
+    upper: 624,
+    location_name: 'Soria',
+    date: '9/2022'
+  },
+  {
+    lower: 549,
+    middle: 549,
+    upper: 715,
+    location_name: 'Tarragona',
+    date: '9/2022'
+  },
+  {
+    lower: 350,
+    middle: 469,
+    upper: 650,
+    location_name: 'Teruel',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 470,
+    upper: 570,
+    location_name: 'Toledo',
+    date: '9/2022'
+  },
+  {
+    lower: 377,
+    middle: 549,
+    upper: 674,
+    location_name: 'Valladolid',
+    date: '9/2022'
+  },
+  {
+    lower: 513,
+    middle: 517,
+    upper: 1375,
+    location_name: 'València',
+    date: '9/2022'
+  },
+  {
+    lower: 250,
+    middle: 256,
+    upper: 380,
+    location_name: 'Zamora',
+    date: '9/2022'
+  },
+  {
+    lower: 539,
+    middle: 588,
+    upper: 724,
+    location_name: 'Zaragoza',
+    date: '9/2022'
+  },
+  {
+    lower: 319,
+    middle: 416,
+    upper: 509,
+    location_name: 'Ávila',
+    date: '9/2022'
+  }
+]
+saved_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  },
+  {
+    lower: 443,
+    middle: 458,
+    upper: 712,
+    location_name: 'Almería',
+    date: '9/2022'
+  },
+  {
+    lower: 390,
+    middle: 441,
+    upper: 553,
+    location_name: 'Asturias',
+    date: '9/2022'
+  },
+  {
+    lower: 319,
+    middle: 416,
+    upper: 509,
+    location_name: 'Ávila',
+    date: '9/2022'
+  },
+  {
+    lower: 461,
+    middle: 428,
+    upper: 532,
+    location_name: 'Badajoz',
+    date: '9/2022'
+  },
+  {
+    lower: 814,
+    middle: 1097,
+    upper: 2068,
+    location_name: 'Illes Balears',
+    date: '9/2022'
+  },
+  {
+    lower: 733,
+    middle: 925,
+    upper: 1668,
+    location_name: 'Barcelona',
+    date: '9/2022'
+  },
+  {
+    lower: 742,
+    middle: 837,
+    upper: 1072,
+    location_name: 'Bizkaia',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 539,
+    upper: 688,
+    location_name: 'Burgos',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 396,
+    upper: 533,
+    location_name: 'Cáceres',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 571,
+    upper: 681,
+    location_name: 'Cádiz',
+    date: '9/2022'
+  },
+  {
+    lower: 472,
+    middle: 607,
+    upper: 899,
+    location_name: 'Cantabria',
+    date: '9/2022'
+  },
+  {
+    lower: 642,
+    middle: 2162,
+    upper: 735,
+    location_name: 'Castelló',
+    date: '9/2022'
+  },
+  {
+    lower: 200,
+    middle: 308,
+    upper: 396,
+    location_name: 'Ciudad Real',
+    date: '9/2022'
+  },
+  {
+    lower: 417,
+    middle: 534,
+    upper: 703,
+    location_name: 'Córdoba',
+    date: '9/2022'
+  },
+  {
+    lower: 449,
+    middle: 454,
+    upper: 750,
+    location_name: 'Cuenca',
+    date: '9/2022'
+  },
+  {
+    lower: 827,
+    middle: 841,
+    upper: 1261,
+    location_name: 'Gipuzkoa',
+    date: '9/2022'
+  },
+  {
+    lower: 682,
+    middle: 693,
+    upper: 1026,
+    location_name: 'Girona',
+    date: '9/2022'
+  },
+  {
+    lower: 464,
+    middle: 635,
+    upper: 850,
+    location_name: 'Granada',
+    date: '9/2022'
+  },
+  {
+    lower: 447,
+    middle: 589,
+    upper: 651,
+    location_name: 'Guadalajara',
+    date: '9/2022'
+  },
+  {
+    lower: 349,
+    middle: 505,
+    upper: 528,
+    location_name: 'Huelva',
+    date: '9/2022'
+  },
+  {
+    lower: 457,
+    middle: 502,
+    upper: 525,
+    location_name: 'Huesca',
+    date: '9/2022'
+  },
+  {
+    lower: 326,
+    middle: 454,
+    upper: 600,
+    location_name: 'Jaén',
+    date: '9/2022'
+  },
+  {
+    lower: 407,
+    middle: 426,
+    upper: 795,
+    location_name: 'La Rioja',
+    date: '9/2022'
+  },
+  {
+    lower: 639,
+    middle: 662,
+    upper: 898,
+    location_name: 'Las Palmas',
+    date: '9/2022'
+  },
+  {
+    lower: 433,
+    middle: 478,
+    upper: 735,
+    location_name: 'León',
+    date: '9/2022'
+  },
+  {
+    lower: 546,
+    middle: 579,
+    upper: 623,
+    location_name: 'Lleida',
+    date: '9/2022'
+  },
+  {
+    lower: 353,
+    middle: 397,
+    upper: 521,
+    location_name: 'Lugo',
+    date: '9/2022'
+  },
+  {
+    lower: 707,
+    middle: 869,
+    upper: 1497,
+    location_name: 'Madrid',
+    date: '9/2022'
+  },
+  {
+    lower: 569,
+    middle: 645,
+    upper: 868,
+    location_name: 'Málaga',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 548,
+    upper: 1481,
+    location_name: 'Murcia',
+    date: '9/2022'
+  },
+  {
+    lower: 649,
+    middle: 718,
+    upper: 1152,
+    location_name: 'Navarra',
+    date: '9/2022'
+  },
+  {
+    lower: 394,
+    middle: 491,
+    upper: 552,
+    location_name: 'Ourense',
+    date: '9/2022'
+  },
+  {
+    lower: 424,
+    middle: 497,
+    upper: 600,
+    location_name: 'Palencia',
+    date: '9/2022'
+  },
+  {
+    lower: 403,
+    middle: 419,
+    upper: 695,
+    location_name: 'Pontevedra',
+    date: '9/2022'
+  },
+  {
+    lower: 492,
+    middle: 577,
+    upper: 623,
+    location_name: 'Salamanca',
+    date: '9/2022'
+  },
+  {
+    lower: 514,
+    middle: 610,
+    upper: 1078,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '9/2022'
+  },
+  {
+    lower: 505,
+    middle: 919,
+    upper: 1156,
+    location_name: 'Segovia',
+    date: '9/2022'
+  },
+  {
+    lower: 608,
+    middle: 509,
+    upper: 901,
+    location_name: 'Sevilla',
+    date: '9/2022'
+  },
+  {
+    lower: 387,
+    middle: 526,
+    upper: 624,
+    location_name: 'Soria',
+    date: '9/2022'
+  },
+  {
+    lower: 549,
+    middle: 549,
+    upper: 715,
+    location_name: 'Tarragona',
+    date: '9/2022'
+  },
+  {
+    lower: 350,
+    middle: 469,
+    upper: 650,
+    location_name: 'Teruel',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 470,
+    upper: 570,
+    location_name: 'Toledo',
+    date: '9/2022'
+  },
+  {
+    lower: 513,
+    middle: 517,
+    upper: 1375,
+    location_name: 'València',
+    date: '9/2022'
+  },
+  {
+    lower: 377,
+    middle: 549,
+    upper: 674,
+    location_name: 'Valladolid',
+    date: '9/2022'
+  },
+  {
+    lower: 250,
+    middle: 256,
+    upper: 380,
+    location_name: 'Zamora',
+    date: '9/2022'
+  },
+  {
+    lower: 539,
+    middle: 588,
+    upper: 724,
+    location_name: 'Zaragoza',
+    date: '9/2022'
+  }
+]
+new_prices []
+predicted_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  },
+  {
+    lower: 443,
+    middle: 458,
+    upper: 712,
+    location_name: 'Almería',
+    date: '9/2022'
+  },
+  {
+    lower: 390,
+    middle: 441,
+    upper: 553,
+    location_name: 'Asturias',
+    date: '9/2022'
+  },
+  {
+    lower: 319,
+    middle: 416,
+    upper: 509,
+    location_name: 'Ávila',
+    date: '9/2022'
+  },
+  {
+    lower: 461,
+    middle: 428,
+    upper: 532,
+    location_name: 'Badajoz',
+    date: '9/2022'
+  },
+  {
+    lower: 814,
+    middle: 1097,
+    upper: 2068,
+    location_name: 'Illes Balears',
+    date: '9/2022'
+  },
+  {
+    lower: 733,
+    middle: 925,
+    upper: 1668,
+    location_name: 'Barcelona',
+    date: '9/2022'
+  },
+  {
+    lower: 742,
+    middle: 837,
+    upper: 1072,
+    location_name: 'Bizkaia',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 539,
+    upper: 688,
+    location_name: 'Burgos',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 396,
+    upper: 533,
+    location_name: 'Cáceres',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 571,
+    upper: 681,
+    location_name: 'Cádiz',
+    date: '9/2022'
+  },
+  {
+    lower: 472,
+    middle: 607,
+    upper: 899,
+    location_name: 'Cantabria',
+    date: '9/2022'
+  },
+  {
+    lower: 642,
+    middle: 2162,
+    upper: 735,
+    location_name: 'Castelló',
+    date: '9/2022'
+  },
+  {
+    lower: 200,
+    middle: 308,
+    upper: 396,
+    location_name: 'Ciudad Real',
+    date: '9/2022'
+  },
+  {
+    lower: 417,
+    middle: 534,
+    upper: 703,
+    location_name: 'Córdoba',
+    date: '9/2022'
+  },
+  {
+    lower: 449,
+    middle: 454,
+    upper: 750,
+    location_name: 'Cuenca',
+    date: '9/2022'
+  },
+  {
+    lower: 827,
+    middle: 841,
+    upper: 1261,
+    location_name: 'Gipuzkoa',
+    date: '9/2022'
+  },
+  {
+    lower: 682,
+    middle: 693,
+    upper: 1026,
+    location_name: 'Girona',
+    date: '9/2022'
+  },
+  {
+    lower: 464,
+    middle: 635,
+    upper: 850,
+    location_name: 'Granada',
+    date: '9/2022'
+  },
+  {
+    lower: 447,
+    middle: 589,
+    upper: 651,
+    location_name: 'Guadalajara',
+    date: '9/2022'
+  },
+  {
+    lower: 349,
+    middle: 505,
+    upper: 528,
+    location_name: 'Huelva',
+    date: '9/2022'
+  },
+  {
+    lower: 457,
+    middle: 502,
+    upper: 525,
+    location_name: 'Huesca',
+    date: '9/2022'
+  },
+  {
+    lower: 326,
+    middle: 454,
+    upper: 600,
+    location_name: 'Jaén',
+    date: '9/2022'
+  },
+  {
+    lower: 407,
+    middle: 426,
+    upper: 795,
+    location_name: 'La Rioja',
+    date: '9/2022'
+  },
+  {
+    lower: 639,
+    middle: 662,
+    upper: 898,
+    location_name: 'Las Palmas',
+    date: '9/2022'
+  },
+  {
+    lower: 433,
+    middle: 478,
+    upper: 735,
+    location_name: 'León',
+    date: '9/2022'
+  },
+  {
+    lower: 546,
+    middle: 579,
+    upper: 623,
+    location_name: 'Lleida',
+    date: '9/2022'
+  },
+  {
+    lower: 353,
+    middle: 397,
+    upper: 521,
+    location_name: 'Lugo',
+    date: '9/2022'
+  },
+  {
+    lower: 707,
+    middle: 869,
+    upper: 1497,
+    location_name: 'Madrid',
+    date: '9/2022'
+  },
+  {
+    lower: 569,
+    middle: 645,
+    upper: 868,
+    location_name: 'Málaga',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 548,
+    upper: 1481,
+    location_name: 'Murcia',
+    date: '9/2022'
+  },
+  {
+    lower: 649,
+    middle: 718,
+    upper: 1152,
+    location_name: 'Navarra',
+    date: '9/2022'
+  },
+  {
+    lower: 394,
+    middle: 491,
+    upper: 552,
+    location_name: 'Ourense',
+    date: '9/2022'
+  },
+  {
+    lower: 424,
+    middle: 497,
+    upper: 600,
+    location_name: 'Palencia',
+    date: '9/2022'
+  },
+  {
+    lower: 403,
+    middle: 419,
+    upper: 695,
+    location_name: 'Pontevedra',
+    date: '9/2022'
+  },
+  {
+    lower: 492,
+    middle: 577,
+    upper: 623,
+    location_name: 'Salamanca',
+    date: '9/2022'
+  },
+  {
+    lower: 514,
+    middle: 610,
+    upper: 1078,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '9/2022'
+  },
+  {
+    lower: 505,
+    middle: 919,
+    upper: 1156,
+    location_name: 'Segovia',
+    date: '9/2022'
+  },
+  {
+    lower: 608,
+    middle: 509,
+    upper: 901,
+    location_name: 'Sevilla',
+    date: '9/2022'
+  },
+  {
+    lower: 387,
+    middle: 526,
+    upper: 624,
+    location_name: 'Soria',
+    date: '9/2022'
+  },
+  {
+    lower: 549,
+    middle: 549,
+    upper: 715,
+    location_name: 'Tarragona',
+    date: '9/2022'
+  },
+  {
+    lower: 350,
+    middle: 469,
+    upper: 650,
+    location_name: 'Teruel',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 470,
+    upper: 570,
+    location_name: 'Toledo',
+    date: '9/2022'
+  },
+  {
+    lower: 513,
+    middle: 517,
+    upper: 1375,
+    location_name: 'València',
+    date: '9/2022'
+  },
+  {
+    lower: 377,
+    middle: 549,
+    upper: 674,
+    location_name: 'Valladolid',
+    date: '9/2022'
+  },
+  {
+    lower: 250,
+    middle: 256,
+    upper: 380,
+    location_name: 'Zamora',
+    date: '9/2022'
+  },
+  {
+    lower: 539,
+    middle: 588,
+    upper: 724,
+    location_name: 'Zaragoza',
+    date: '9/2022'
+  }
+]
+saved_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  },
+  {
+    lower: 443,
+    middle: 458,
+    upper: 712,
+    location_name: 'Almería',
+    date: '9/2022'
+  },
+  {
+    lower: 390,
+    middle: 441,
+    upper: 553,
+    location_name: 'Asturias',
+    date: '9/2022'
+  },
+  {
+    lower: 319,
+    middle: 416,
+    upper: 509,
+    location_name: 'Ávila',
+    date: '9/2022'
+  },
+  {
+    lower: 461,
+    middle: 428,
+    upper: 532,
+    location_name: 'Badajoz',
+    date: '9/2022'
+  },
+  {
+    lower: 814,
+    middle: 1097,
+    upper: 2068,
+    location_name: 'Illes Balears',
+    date: '9/2022'
+  },
+  {
+    lower: 733,
+    middle: 925,
+    upper: 1668,
+    location_name: 'Barcelona',
+    date: '9/2022'
+  },
+  {
+    lower: 742,
+    middle: 837,
+    upper: 1072,
+    location_name: 'Bizkaia',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 539,
+    upper: 688,
+    location_name: 'Burgos',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 396,
+    upper: 533,
+    location_name: 'Cáceres',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 571,
+    upper: 681,
+    location_name: 'Cádiz',
+    date: '9/2022'
+  },
+  {
+    lower: 472,
+    middle: 607,
+    upper: 899,
+    location_name: 'Cantabria',
+    date: '9/2022'
+  },
+  {
+    lower: 642,
+    middle: 2162,
+    upper: 735,
+    location_name: 'Castelló',
+    date: '9/2022'
+  },
+  {
+    lower: 200,
+    middle: 308,
+    upper: 396,
+    location_name: 'Ciudad Real',
+    date: '9/2022'
+  },
+  {
+    lower: 417,
+    middle: 534,
+    upper: 703,
+    location_name: 'Córdoba',
+    date: '9/2022'
+  },
+  {
+    lower: 449,
+    middle: 454,
+    upper: 750,
+    location_name: 'Cuenca',
+    date: '9/2022'
+  },
+  {
+    lower: 827,
+    middle: 841,
+    upper: 1261,
+    location_name: 'Gipuzkoa',
+    date: '9/2022'
+  },
+  {
+    lower: 682,
+    middle: 693,
+    upper: 1026,
+    location_name: 'Girona',
+    date: '9/2022'
+  },
+  {
+    lower: 464,
+    middle: 635,
+    upper: 850,
+    location_name: 'Granada',
+    date: '9/2022'
+  },
+  {
+    lower: 447,
+    middle: 589,
+    upper: 651,
+    location_name: 'Guadalajara',
+    date: '9/2022'
+  },
+  {
+    lower: 349,
+    middle: 505,
+    upper: 528,
+    location_name: 'Huelva',
+    date: '9/2022'
+  },
+  {
+    lower: 457,
+    middle: 502,
+    upper: 525,
+    location_name: 'Huesca',
+    date: '9/2022'
+  },
+  {
+    lower: 326,
+    middle: 454,
+    upper: 600,
+    location_name: 'Jaén',
+    date: '9/2022'
+  },
+  {
+    lower: 407,
+    middle: 426,
+    upper: 795,
+    location_name: 'La Rioja',
+    date: '9/2022'
+  },
+  {
+    lower: 639,
+    middle: 662,
+    upper: 898,
+    location_name: 'Las Palmas',
+    date: '9/2022'
+  },
+  {
+    lower: 433,
+    middle: 478,
+    upper: 735,
+    location_name: 'León',
+    date: '9/2022'
+  },
+  {
+    lower: 546,
+    middle: 579,
+    upper: 623,
+    location_name: 'Lleida',
+    date: '9/2022'
+  },
+  {
+    lower: 353,
+    middle: 397,
+    upper: 521,
+    location_name: 'Lugo',
+    date: '9/2022'
+  },
+  {
+    lower: 707,
+    middle: 869,
+    upper: 1497,
+    location_name: 'Madrid',
+    date: '9/2022'
+  },
+  {
+    lower: 569,
+    middle: 645,
+    upper: 868,
+    location_name: 'Málaga',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 548,
+    upper: 1481,
+    location_name: 'Murcia',
+    date: '9/2022'
+  },
+  {
+    lower: 649,
+    middle: 718,
+    upper: 1152,
+    location_name: 'Navarra',
+    date: '9/2022'
+  },
+  {
+    lower: 394,
+    middle: 491,
+    upper: 552,
+    location_name: 'Ourense',
+    date: '9/2022'
+  },
+  {
+    lower: 424,
+    middle: 497,
+    upper: 600,
+    location_name: 'Palencia',
+    date: '9/2022'
+  },
+  {
+    lower: 403,
+    middle: 419,
+    upper: 695,
+    location_name: 'Pontevedra',
+    date: '9/2022'
+  },
+  {
+    lower: 492,
+    middle: 577,
+    upper: 623,
+    location_name: 'Salamanca',
+    date: '9/2022'
+  },
+  {
+    lower: 514,
+    middle: 610,
+    upper: 1078,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '9/2022'
+  },
+  {
+    lower: 505,
+    middle: 919,
+    upper: 1156,
+    location_name: 'Segovia',
+    date: '9/2022'
+  },
+  {
+    lower: 608,
+    middle: 509,
+    upper: 901,
+    location_name: 'Sevilla',
+    date: '9/2022'
+  },
+  {
+    lower: 387,
+    middle: 526,
+    upper: 624,
+    location_name: 'Soria',
+    date: '9/2022'
+  },
+  {
+    lower: 549,
+    middle: 549,
+    upper: 715,
+    location_name: 'Tarragona',
+    date: '9/2022'
+  },
+  {
+    lower: 350,
+    middle: 469,
+    upper: 650,
+    location_name: 'Teruel',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 470,
+    upper: 570,
+    location_name: 'Toledo',
+    date: '9/2022'
+  },
+  {
+    lower: 513,
+    middle: 517,
+    upper: 1375,
+    location_name: 'València',
+    date: '9/2022'
+  },
+  {
+    lower: 377,
+    middle: 549,
+    upper: 674,
+    location_name: 'Valladolid',
+    date: '9/2022'
+  },
+  {
+    lower: 250,
+    middle: 256,
+    upper: 380,
+    location_name: 'Zamora',
+    date: '9/2022'
+  },
+  {
+    lower: 539,
+    middle: 588,
+    upper: 724,
+    location_name: 'Zaragoza',
+    date: '9/2022'
+  }
+]
+new_prices [
+  {
+    lower: 436,
+    middle: 523,
+    upper: 563,
+    location_name: 'A Coruña',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 436,
+    middle: 478,
+    upper: 941,
+    location_name: 'Alacant',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 429,
+    middle: 585,
+    upper: 628,
+    location_name: 'Albacete',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 453,
+    middle: 411,
+    upper: 570,
+    location_name: 'Almería',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 735,
+    middle: 755,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 431,
+    middle: 420,
+    upper: 577,
+    location_name: 'Asturias',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 381,
+    middle: 454,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 780,
+    middle: 924,
+    upper: 1349,
+    location_name: 'Barcelona',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 711,
+    middle: 737,
+    upper: 1147,
+    location_name: 'Bizkaia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 424,
+    middle: 447,
+    upper: 597,
+    location_name: 'Burgos',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 742,
+    middle: 920,
+    upper: 2122,
+    location_name: 'Cantabria',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 677,
+    middle: 743,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 370,
+    middle: 375,
+    upper: 438,
+    location_name: 'Ciudad Real',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 409,
+    middle: 422,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 409,
+    middle: 437,
+    upper: 569,
+    location_name: 'Cáceres',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 533,
+    middle: 595,
+    upper: 1514,
+    location_name: 'Cádiz',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 287,
+    middle: 446,
+    upper: 563,
+    location_name: 'Córdoba',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 599,
+    middle: 641,
+    upper: 1351,
+    location_name: 'Gipuzkoa',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 710,
+    middle: 635,
+    upper: 1071,
+    location_name: 'Girona',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 426,
+    middle: 596,
+    upper: 695,
+    location_name: 'Granada',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 548,
+    middle: 608,
+    upper: 633,
+    location_name: 'Guadalajara',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 394,
+    middle: 608,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 550,
+    middle: 603,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 712,
+    middle: 827,
+    upper: 1119,
+    location_name: 'Illes Balears',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 415,
+    middle: 467,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 524,
+    middle: 689,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 604,
+    middle: 690,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 409,
+    middle: 482,
+    upper: 547,
+    location_name: 'León',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 722,
+    middle: 609,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 326,
+    middle: 289,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 725,
+    middle: 817,
+    upper: 1372,
+    location_name: 'Madrid',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 480,
+    middle: 596,
+    upper: 582,
+    location_name: 'Murcia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 729,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 729,
+    middle: 624,
+    upper: 831,
+    location_name: 'Navarra',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 407,
+    middle: 484,
+    upper: 499,
+    location_name: 'Ourense',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 418,
+    middle: 401,
+    upper: 450,
+    location_name: 'Palencia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 484,
+    middle: 515,
+    upper: 1622,
+    location_name: 'Pontevedra',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 537,
+    middle: 550,
+    upper: 616,
+    location_name: 'Salamanca',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 686,
+    middle: 731,
+    upper: 836,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 375,
+    middle: 634,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 593,
+    middle: 991,
+    upper: 790,
+    location_name: 'Sevilla',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 498,
+    middle: 570,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 389,
+    middle: 415,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 377,
+    middle: 402,
+    upper: 541,
+    location_name: 'Toledo',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 471,
+    middle: 517,
+    upper: 604,
+    location_name: 'Valladolid',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 624,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 398,
+    middle: 400,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 506,
+    middle: 523,
+    upper: 652,
+    location_name: 'Zaragoza',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 469,
+    middle: 503,
+    upper: 723,
+    location_name: 'A Coruña',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 444,
+    middle: 588,
+    upper: 864,
+    location_name: 'Alacant',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 467,
+    middle: 533,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 439,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 469,
+    middle: 491,
+    upper: 1250,
+    location_name: 'Asturias',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 305,
+    middle: 278,
+    upper: 616,
+    location_name: 'Badajoz',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 715,
+    middle: 851,
+    upper: 1340,
+    location_name: 'Barcelona',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 776,
+    middle: 828,
+    upper: 997,
+    location_name: 'Bizkaia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 571,
+    middle: 569,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 565,
+    middle: 653,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 966,
+    middle: 459,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 349,
+    middle: 416,
+    upper: 411,
+    location_name: 'Ciudad Real',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 630,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 381,
+    middle: 432,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 471,
+    middle: 598,
+    upper: 1499,
+    location_name: 'Cádiz',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 400,
+    middle: 428,
+    upper: 660,
+    location_name: 'Córdoba',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 1195,
+    middle: 1043,
+    upper: 3016,
+    location_name: 'Gipuzkoa',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 608,
+    middle: 624,
+    upper: 2352,
+    location_name: 'Girona',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 416,
+    middle: 613,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 579,
+    middle: 448,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 424,
+    middle: 431,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 890,
+    middle: 971,
+    upper: 2497,
+    location_name: 'Illes Balears',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 376,
+    middle: 412,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 358,
+    middle: 465,
+    upper: 573,
+    location_name: 'La Rioja',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 572,
+    middle: 707,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 416,
+    middle: 415,
+    upper: 443,
+    location_name: 'León',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 653,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 835,
+    middle: 1125,
+    upper: 833,
+    location_name: 'Lugo',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 658,
+    middle: 1123,
+    upper: 1346,
+    location_name: 'Madrid',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 371,
+    middle: 626,
+    upper: 805,
+    location_name: 'Murcia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 573,
+    middle: 1154,
+    upper: 850,
+    location_name: 'Málaga',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 750,
+    middle: 744,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 335,
+    middle: 364,
+    upper: 532,
+    location_name: 'Ourense',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 396,
+    middle: 415,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 632,
+    middle: 538,
+    upper: 1345,
+    location_name: 'Pontevedra',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 455,
+    middle: 572,
+    upper: 644,
+    location_name: 'Salamanca',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 598,
+    middle: 698,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 488,
+    middle: 507,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 509,
+    middle: 762,
+    upper: 784,
+    location_name: 'Sevilla',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 706,
+    middle: 807,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 300,
+    middle: 240,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 367,
+    middle: 270,
+    upper: 606,
+    location_name: 'Toledo',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 464,
+    middle: 534,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 870,
+    middle: 708,
+    upper: 1683,
+    location_name: 'València',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 435,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 514,
+    middle: 554,
+    upper: 641,
+    location_name: 'Zaragoza',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 359,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  ... 100 more items
+]
+predicted_prices [
+  {
+    lower: 509,
+    middle: 475,
+    upper: 714,
+    location_name: 'A Coruña',
+    date: '9/2022'
+  },
+  {
+    lower: 596,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Araba',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 470,
+    upper: 583,
+    location_name: 'Albacete',
+    date: '9/2022'
+  },
+  {
+    lower: 475,
+    middle: 673,
+    upper: 1109,
+    location_name: 'Alacant',
+    date: '9/2022'
+  },
+  {
+    lower: 443,
+    middle: 458,
+    upper: 712,
+    location_name: 'Almería',
+    date: '9/2022'
+  },
+  {
+    lower: 390,
+    middle: 441,
+    upper: 553,
+    location_name: 'Asturias',
+    date: '9/2022'
+  },
+  {
+    lower: 319,
+    middle: 416,
+    upper: 509,
+    location_name: 'Ávila',
+    date: '9/2022'
+  },
+  {
+    lower: 461,
+    middle: 428,
+    upper: 532,
+    location_name: 'Badajoz',
+    date: '9/2022'
+  },
+  {
+    lower: 814,
+    middle: 1097,
+    upper: 2068,
+    location_name: 'Illes Balears',
+    date: '9/2022'
+  },
+  {
+    lower: 733,
+    middle: 925,
+    upper: 1668,
+    location_name: 'Barcelona',
+    date: '9/2022'
+  },
+  {
+    lower: 742,
+    middle: 837,
+    upper: 1072,
+    location_name: 'Bizkaia',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 539,
+    upper: 688,
+    location_name: 'Burgos',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 396,
+    upper: 533,
+    location_name: 'Cáceres',
+    date: '9/2022'
+  },
+  {
+    lower: 450,
+    middle: 571,
+    upper: 681,
+    location_name: 'Cádiz',
+    date: '9/2022'
+  },
+  {
+    lower: 472,
+    middle: 607,
+    upper: 899,
+    location_name: 'Cantabria',
+    date: '9/2022'
+  },
+  {
+    lower: 642,
+    middle: 2162,
+    upper: 735,
+    location_name: 'Castelló',
+    date: '9/2022'
+  },
+  {
+    lower: 200,
+    middle: 308,
+    upper: 396,
+    location_name: 'Ciudad Real',
+    date: '9/2022'
+  },
+  {
+    lower: 417,
+    middle: 534,
+    upper: 703,
+    location_name: 'Córdoba',
+    date: '9/2022'
+  },
+  {
+    lower: 449,
+    middle: 454,
+    upper: 750,
+    location_name: 'Cuenca',
+    date: '9/2022'
+  },
+  {
+    lower: 827,
+    middle: 841,
+    upper: 1261,
+    location_name: 'Gipuzkoa',
+    date: '9/2022'
+  },
+  {
+    lower: 682,
+    middle: 693,
+    upper: 1026,
+    location_name: 'Girona',
+    date: '9/2022'
+  },
+  {
+    lower: 464,
+    middle: 635,
+    upper: 850,
+    location_name: 'Granada',
+    date: '9/2022'
+  },
+  {
+    lower: 447,
+    middle: 589,
+    upper: 651,
+    location_name: 'Guadalajara',
+    date: '9/2022'
+  },
+  {
+    lower: 349,
+    middle: 505,
+    upper: 528,
+    location_name: 'Huelva',
+    date: '9/2022'
+  },
+  {
+    lower: 457,
+    middle: 502,
+    upper: 525,
+    location_name: 'Huesca',
+    date: '9/2022'
+  },
+  {
+    lower: 326,
+    middle: 454,
+    upper: 600,
+    location_name: 'Jaén',
+    date: '9/2022'
+  },
+  {
+    lower: 407,
+    middle: 426,
+    upper: 795,
+    location_name: 'La Rioja',
+    date: '9/2022'
+  },
+  {
+    lower: 639,
+    middle: 662,
+    upper: 898,
+    location_name: 'Las Palmas',
+    date: '9/2022'
+  },
+  {
+    lower: 433,
+    middle: 478,
+    upper: 735,
+    location_name: 'León',
+    date: '9/2022'
+  },
+  {
+    lower: 546,
+    middle: 579,
+    upper: 623,
+    location_name: 'Lleida',
+    date: '9/2022'
+  },
+  {
+    lower: 353,
+    middle: 397,
+    upper: 521,
+    location_name: 'Lugo',
+    date: '9/2022'
+  },
+  {
+    lower: 707,
+    middle: 869,
+    upper: 1497,
+    location_name: 'Madrid',
+    date: '9/2022'
+  },
+  {
+    lower: 569,
+    middle: 645,
+    upper: 868,
+    location_name: 'Málaga',
+    date: '9/2022'
+  },
+  {
+    lower: 420,
+    middle: 548,
+    upper: 1481,
+    location_name: 'Murcia',
+    date: '9/2022'
+  },
+  {
+    lower: 649,
+    middle: 718,
+    upper: 1152,
+    location_name: 'Navarra',
+    date: '9/2022'
+  },
+  {
+    lower: 394,
+    middle: 491,
+    upper: 552,
+    location_name: 'Ourense',
+    date: '9/2022'
+  },
+  {
+    lower: 424,
+    middle: 497,
+    upper: 600,
+    location_name: 'Palencia',
+    date: '9/2022'
+  },
+  {
+    lower: 403,
+    middle: 419,
+    upper: 695,
+    location_name: 'Pontevedra',
+    date: '9/2022'
+  },
+  {
+    lower: 492,
+    middle: 577,
+    upper: 623,
+    location_name: 'Salamanca',
+    date: '9/2022'
+  },
+  {
+    lower: 514,
+    middle: 610,
+    upper: 1078,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '9/2022'
+  },
+  {
+    lower: 505,
+    middle: 919,
+    upper: 1156,
+    location_name: 'Segovia',
+    date: '9/2022'
+  },
+  {
+    lower: 608,
+    middle: 509,
+    upper: 901,
+    location_name: 'Sevilla',
+    date: '9/2022'
+  },
+  {
+    lower: 387,
+    middle: 526,
+    upper: 624,
+    location_name: 'Soria',
+    date: '9/2022'
+  },
+  {
+    lower: 549,
+    middle: 549,
+    upper: 715,
+    location_name: 'Tarragona',
+    date: '9/2022'
+  },
+  {
+    lower: 350,
+    middle: 469,
+    upper: 650,
+    location_name: 'Teruel',
+    date: '9/2022'
+  },
+  {
+    lower: 491,
+    middle: 470,
+    upper: 570,
+    location_name: 'Toledo',
+    date: '9/2022'
+  },
+  {
+    lower: 513,
+    middle: 517,
+    upper: 1375,
+    location_name: 'València',
+    date: '9/2022'
+  },
+  {
+    lower: 377,
+    middle: 549,
+    upper: 674,
+    location_name: 'Valladolid',
+    date: '9/2022'
+  },
+  {
+    lower: 250,
+    middle: 256,
+    upper: 380,
+    location_name: 'Zamora',
+    date: '9/2022'
+  },
+  {
+    lower: 539,
+    middle: 588,
+    upper: 724,
+    location_name: 'Zaragoza',
+    date: '9/2022'
+  },
+  {
+    lower: 436,
+    middle: 523,
+    upper: 563,
+    location_name: 'A Coruña',
+    date: '7/2022'
+  },
+  {
+    lower: 436,
+    middle: 478,
+    upper: 941,
+    location_name: 'Alacant',
+    date: '7/2022'
+  },
+  {
+    lower: 429,
+    middle: 585,
+    upper: 628,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 453,
+    middle: 411,
+    upper: 570,
+    location_name: 'Almería',
+    date: '7/2022'
+  },
+  {
+    lower: 735,
+    middle: 755,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022'
+  },
+  {
+    lower: 431,
+    middle: 420,
+    upper: 577,
+    location_name: 'Asturias',
+    date: '7/2022'
+  },
+  {
+    lower: 381,
+    middle: 454,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022'
+  },
+  {
+    lower: 780,
+    middle: 924,
+    upper: 1349,
+    location_name: 'Barcelona',
+    date: '7/2022'
+  },
+  {
+    lower: 711,
+    middle: 737,
+    upper: 1147,
+    location_name: 'Bizkaia',
+    date: '7/2022'
+  },
+  {
+    lower: 424,
+    middle: 447,
+    upper: 597,
+    location_name: 'Burgos',
+    date: '7/2022'
+  },
+  {
+    lower: 742,
+    middle: 920,
+    upper: 2122,
+    location_name: 'Cantabria',
+    date: '7/2022'
+  },
+  {
+    lower: 677,
+    middle: 743,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022'
+  },
+  {
+    lower: 370,
+    middle: 375,
+    upper: 438,
+    location_name: 'Ciudad Real',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 422,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 437,
+    upper: 569,
+    location_name: 'Cáceres',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 595,
+    upper: 1514,
+    location_name: 'Cádiz',
+    date: '7/2022'
+  },
+  {
+    lower: 287,
+    middle: 446,
+    upper: 563,
+    location_name: 'Córdoba',
+    date: '7/2022'
+  },
+  {
+    lower: 599,
+    middle: 641,
+    upper: 1351,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 710,
+    middle: 635,
+    upper: 1071,
+    location_name: 'Girona',
+    date: '7/2022'
+  },
+  {
+    lower: 426,
+    middle: 596,
+    upper: 695,
+    location_name: 'Granada',
+    date: '7/2022'
+  },
+  {
+    lower: 548,
+    middle: 608,
+    upper: 633,
+    location_name: 'Guadalajara',
+    date: '7/2022'
+  },
+  {
+    lower: 394,
+    middle: 608,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022'
+  },
+  {
+    lower: 550,
+    middle: 603,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022'
+  },
+  {
+    lower: 712,
+    middle: 827,
+    upper: 1119,
+    location_name: 'Illes Balears',
+    date: '7/2022'
+  },
+  {
+    lower: 415,
+    middle: 467,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022'
+  },
+  {
+    lower: 524,
+    middle: 689,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022'
+  },
+  {
+    lower: 604,
+    middle: 690,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 482,
+    upper: 547,
+    location_name: 'León',
+    date: '7/2022'
+  },
+  {
+    lower: 722,
+    middle: 609,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022'
+  },
+  {
+    lower: 326,
+    middle: 289,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022'
+  },
+  {
+    lower: 725,
+    middle: 817,
+    upper: 1372,
+    location_name: 'Madrid',
+    date: '7/2022'
+  },
+  {
+    lower: 480,
+    middle: 596,
+    upper: 582,
+    location_name: 'Murcia',
+    date: '7/2022'
+  },
+  {
+    lower: 729,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022'
+  },
+  {
+    lower: 729,
+    middle: 624,
+    upper: 831,
+    location_name: 'Navarra',
+    date: '7/2022'
+  },
+  {
+    lower: 407,
+    middle: 484,
+    upper: 499,
+    location_name: 'Ourense',
+    date: '7/2022'
+  },
+  {
+    lower: 418,
+    middle: 401,
+    upper: 450,
+    location_name: 'Palencia',
+    date: '7/2022'
+  },
+  {
+    lower: 484,
+    middle: 515,
+    upper: 1622,
+    location_name: 'Pontevedra',
+    date: '7/2022'
+  },
+  {
+    lower: 537,
+    middle: 550,
+    upper: 616,
+    location_name: 'Salamanca',
+    date: '7/2022'
+  },
+  {
+    lower: 686,
+    middle: 731,
+    upper: 836,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022'
+  },
+  {
+    lower: 375,
+    middle: 634,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022'
+  },
+  {
+    lower: 593,
+    middle: 991,
+    upper: 790,
+    location_name: 'Sevilla',
+    date: '7/2022'
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022'
+  },
+  {
+    lower: 498,
+    middle: 570,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 415,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022'
+  },
+  {
+    lower: 377,
+    middle: 402,
+    upper: 541,
+    location_name: 'Toledo',
+    date: '7/2022'
+  },
+  {
+    lower: 471,
+    middle: 517,
+    upper: 604,
+    location_name: 'Valladolid',
+    date: '7/2022'
+  },
+  {
+    lower: 624,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022'
+  },
+  {
+    lower: 398,
+    middle: 400,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022'
+  },
+  {
+    lower: 506,
+    middle: 523,
+    upper: 652,
+    location_name: 'Zaragoza',
+    date: '7/2022'
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022'
+  },
+  ... 150 more items
+]
+saved_prices [
+  {
+    lower: 436,
+    middle: 523,
+    upper: 563,
+    location_name: 'A Coruña',
+    date: '7/2022'
+  },
+  {
+    lower: 735,
+    middle: 755,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022'
+  },
+  {
+    lower: 429,
+    middle: 585,
+    upper: 628,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 436,
+    middle: 478,
+    upper: 941,
+    location_name: 'Alacant',
+    date: '7/2022'
+  },
+  {
+    lower: 453,
+    middle: 411,
+    upper: 570,
+    location_name: 'Almería',
+    date: '7/2022'
+  },
+  {
+    lower: 431,
+    middle: 420,
+    upper: 577,
+    location_name: 'Asturias',
+    date: '7/2022'
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022'
+  },
+  {
+    lower: 381,
+    middle: 454,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022'
+  },
+  {
+    lower: 712,
+    middle: 827,
+    upper: 1119,
+    location_name: 'Illes Balears',
+    date: '7/2022'
+  },
+  {
+    lower: 780,
+    middle: 924,
+    upper: 1349,
+    location_name: 'Barcelona',
+    date: '7/2022'
+  },
+  {
+    lower: 711,
+    middle: 737,
+    upper: 1147,
+    location_name: 'Bizkaia',
+    date: '7/2022'
+  },
+  {
+    lower: 424,
+    middle: 447,
+    upper: 597,
+    location_name: 'Burgos',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 437,
+    upper: 569,
+    location_name: 'Cáceres',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 595,
+    upper: 1514,
+    location_name: 'Cádiz',
+    date: '7/2022'
+  },
+  {
+    lower: 742,
+    middle: 920,
+    upper: 2122,
+    location_name: 'Cantabria',
+    date: '7/2022'
+  },
+  {
+    lower: 677,
+    middle: 743,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022'
+  },
+  {
+    lower: 370,
+    middle: 375,
+    upper: 438,
+    location_name: 'Ciudad Real',
+    date: '7/2022'
+  },
+  {
+    lower: 287,
+    middle: 446,
+    upper: 563,
+    location_name: 'Córdoba',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 422,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022'
+  },
+  {
+    lower: 599,
+    middle: 641,
+    upper: 1351,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 710,
+    middle: 635,
+    upper: 1071,
+    location_name: 'Girona',
+    date: '7/2022'
+  },
+  {
+    lower: 426,
+    middle: 596,
+    upper: 695,
+    location_name: 'Granada',
+    date: '7/2022'
+  },
+  {
+    lower: 548,
+    middle: 608,
+    upper: 633,
+    location_name: 'Guadalajara',
+    date: '7/2022'
+  },
+  {
+    lower: 394,
+    middle: 608,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022'
+  },
+  {
+    lower: 550,
+    middle: 603,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022'
+  },
+  {
+    lower: 415,
+    middle: 467,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022'
+  },
+  {
+    lower: 524,
+    middle: 689,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022'
+  },
+  {
+    lower: 604,
+    middle: 690,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 482,
+    upper: 547,
+    location_name: 'León',
+    date: '7/2022'
+  },
+  {
+    lower: 722,
+    middle: 609,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022'
+  },
+  {
+    lower: 326,
+    middle: 289,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022'
+  },
+  {
+    lower: 725,
+    middle: 817,
+    upper: 1372,
+    location_name: 'Madrid',
+    date: '7/2022'
+  },
+  {
+    lower: 729,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022'
+  },
+  {
+    lower: 480,
+    middle: 596,
+    upper: 582,
+    location_name: 'Murcia',
+    date: '7/2022'
+  },
+  {
+    lower: 729,
+    middle: 624,
+    upper: 831,
+    location_name: 'Navarra',
+    date: '7/2022'
+  },
+  {
+    lower: 407,
+    middle: 484,
+    upper: 499,
+    location_name: 'Ourense',
+    date: '7/2022'
+  },
+  {
+    lower: 418,
+    middle: 401,
+    upper: 450,
+    location_name: 'Palencia',
+    date: '7/2022'
+  },
+  {
+    lower: 484,
+    middle: 515,
+    upper: 1622,
+    location_name: 'Pontevedra',
+    date: '7/2022'
+  },
+  {
+    lower: 537,
+    middle: 550,
+    upper: 616,
+    location_name: 'Salamanca',
+    date: '7/2022'
+  },
+  {
+    lower: 686,
+    middle: 731,
+    upper: 836,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022'
+  },
+  {
+    lower: 375,
+    middle: 634,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022'
+  },
+  {
+    lower: 593,
+    middle: 991,
+    upper: 790,
+    location_name: 'Sevilla',
+    date: '7/2022'
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022'
+  },
+  {
+    lower: 498,
+    middle: 570,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 415,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022'
+  },
+  {
+    lower: 377,
+    middle: 402,
+    upper: 541,
+    location_name: 'Toledo',
+    date: '7/2022'
+  },
+  {
+    lower: 624,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022'
+  },
+  {
+    lower: 471,
+    middle: 517,
+    upper: 604,
+    location_name: 'Valladolid',
+    date: '7/2022'
+  },
+  {
+    lower: 398,
+    middle: 400,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022'
+  },
+  {
+    lower: 506,
+    middle: 523,
+    upper: 652,
+    location_name: 'Zaragoza',
+    date: '7/2022'
+  },
+  {
+    lower: 469,
+    middle: 503,
+    upper: 723,
+    location_name: 'A Coruña',
+    date: '8/2022'
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022'
+  },
+  {
+    lower: 467,
+    middle: 533,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022'
+  },
+  {
+    lower: 444,
+    middle: 588,
+    upper: 864,
+    location_name: 'Alacant',
+    date: '8/2022'
+  },
+  {
+    lower: 439,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022'
+  },
+  {
+    lower: 469,
+    middle: 491,
+    upper: 1250,
+    location_name: 'Asturias',
+    date: '8/2022'
+  },
+  {
+    lower: 359,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022'
+  },
+  {
+    lower: 305,
+    middle: 278,
+    upper: 616,
+    location_name: 'Badajoz',
+    date: '8/2022'
+  },
+  {
+    lower: 890,
+    middle: 971,
+    upper: 2497,
+    location_name: 'Illes Balears',
+    date: '8/2022'
+  },
+  {
+    lower: 715,
+    middle: 851,
+    upper: 1340,
+    location_name: 'Barcelona',
+    date: '8/2022'
+  },
+  {
+    lower: 776,
+    middle: 828,
+    upper: 997,
+    location_name: 'Bizkaia',
+    date: '8/2022'
+  },
+  {
+    lower: 571,
+    middle: 569,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022'
+  },
+  {
+    lower: 381,
+    middle: 432,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022'
+  },
+  {
+    lower: 471,
+    middle: 598,
+    upper: 1499,
+    location_name: 'Cádiz',
+    date: '8/2022'
+  },
+  {
+    lower: 565,
+    middle: 653,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022'
+  },
+  {
+    lower: 966,
+    middle: 459,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022'
+  },
+  {
+    lower: 349,
+    middle: 416,
+    upper: 411,
+    location_name: 'Ciudad Real',
+    date: '8/2022'
+  },
+  {
+    lower: 400,
+    middle: 428,
+    upper: 660,
+    location_name: 'Córdoba',
+    date: '8/2022'
+  },
+  {
+    lower: 630,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022'
+  },
+  {
+    lower: 1195,
+    middle: 1043,
+    upper: 3016,
+    location_name: 'Gipuzkoa',
+    date: '8/2022'
+  },
+  {
+    lower: 608,
+    middle: 624,
+    upper: 2352,
+    location_name: 'Girona',
+    date: '8/2022'
+  },
+  {
+    lower: 416,
+    middle: 613,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022'
+  },
+  {
+    lower: 579,
+    middle: 448,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022'
+  },
+  {
+    lower: 424,
+    middle: 431,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022'
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022'
+  },
+  {
+    lower: 376,
+    middle: 412,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 465,
+    upper: 573,
+    location_name: 'La Rioja',
+    date: '8/2022'
+  },
+  {
+    lower: 572,
+    middle: 707,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022'
+  },
+  {
+    lower: 416,
+    middle: 415,
+    upper: 443,
+    location_name: 'León',
+    date: '8/2022'
+  },
+  {
+    lower: 653,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022'
+  },
+  {
+    lower: 835,
+    middle: 1125,
+    upper: 833,
+    location_name: 'Lugo',
+    date: '8/2022'
+  },
+  {
+    lower: 658,
+    middle: 1123,
+    upper: 1346,
+    location_name: 'Madrid',
+    date: '8/2022'
+  },
+  {
+    lower: 573,
+    middle: 1154,
+    upper: 850,
+    location_name: 'Málaga',
+    date: '8/2022'
+  },
+  {
+    lower: 371,
+    middle: 626,
+    upper: 805,
+    location_name: 'Murcia',
+    date: '8/2022'
+  },
+  {
+    lower: 750,
+    middle: 744,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022'
+  },
+  {
+    lower: 335,
+    middle: 364,
+    upper: 532,
+    location_name: 'Ourense',
+    date: '8/2022'
+  },
+  {
+    lower: 396,
+    middle: 415,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022'
+  },
+  {
+    lower: 632,
+    middle: 538,
+    upper: 1345,
+    location_name: 'Pontevedra',
+    date: '8/2022'
+  },
+  {
+    lower: 455,
+    middle: 572,
+    upper: 644,
+    location_name: 'Salamanca',
+    date: '8/2022'
+  },
+  {
+    lower: 598,
+    middle: 698,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022'
+  },
+  {
+    lower: 488,
+    middle: 507,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022'
+  },
+  {
+    lower: 509,
+    middle: 762,
+    upper: 784,
+    location_name: 'Sevilla',
+    date: '8/2022'
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022'
+  },
+  {
+    lower: 706,
+    middle: 807,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022'
+  },
+  {
+    lower: 300,
+    middle: 240,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022'
+  },
+  {
+    lower: 367,
+    middle: 270,
+    upper: 606,
+    location_name: 'Toledo',
+    date: '8/2022'
+  },
+  {
+    lower: 870,
+    middle: 708,
+    upper: 1683,
+    location_name: 'València',
+    date: '8/2022'
+  },
+  {
+    lower: 464,
+    middle: 534,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022'
+  },
+  {
+    lower: 435,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022'
+  },
+  {
+    lower: 514,
+    middle: 554,
+    upper: 641,
+    location_name: 'Zaragoza',
+    date: '8/2022'
+  },
+  ... 150 more items
+]
+new_prices []
+predicted_prices [
+  {
+    lower: 436,
+    middle: 523,
+    upper: 563,
+    location_name: 'A Coruña',
+    date: '7/2022'
+  },
+  {
+    lower: 735,
+    middle: 755,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022'
+  },
+  {
+    lower: 429,
+    middle: 585,
+    upper: 628,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 436,
+    middle: 478,
+    upper: 941,
+    location_name: 'Alacant',
+    date: '7/2022'
+  },
+  {
+    lower: 453,
+    middle: 411,
+    upper: 570,
+    location_name: 'Almería',
+    date: '7/2022'
+  },
+  {
+    lower: 431,
+    middle: 420,
+    upper: 577,
+    location_name: 'Asturias',
+    date: '7/2022'
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022'
+  },
+  {
+    lower: 381,
+    middle: 454,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022'
+  },
+  {
+    lower: 712,
+    middle: 827,
+    upper: 1119,
+    location_name: 'Illes Balears',
+    date: '7/2022'
+  },
+  {
+    lower: 780,
+    middle: 924,
+    upper: 1349,
+    location_name: 'Barcelona',
+    date: '7/2022'
+  },
+  {
+    lower: 711,
+    middle: 737,
+    upper: 1147,
+    location_name: 'Bizkaia',
+    date: '7/2022'
+  },
+  {
+    lower: 424,
+    middle: 447,
+    upper: 597,
+    location_name: 'Burgos',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 437,
+    upper: 569,
+    location_name: 'Cáceres',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 595,
+    upper: 1514,
+    location_name: 'Cádiz',
+    date: '7/2022'
+  },
+  {
+    lower: 742,
+    middle: 920,
+    upper: 2122,
+    location_name: 'Cantabria',
+    date: '7/2022'
+  },
+  {
+    lower: 677,
+    middle: 743,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022'
+  },
+  {
+    lower: 370,
+    middle: 375,
+    upper: 438,
+    location_name: 'Ciudad Real',
+    date: '7/2022'
+  },
+  {
+    lower: 287,
+    middle: 446,
+    upper: 563,
+    location_name: 'Córdoba',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 422,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022'
+  },
+  {
+    lower: 599,
+    middle: 641,
+    upper: 1351,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 710,
+    middle: 635,
+    upper: 1071,
+    location_name: 'Girona',
+    date: '7/2022'
+  },
+  {
+    lower: 426,
+    middle: 596,
+    upper: 695,
+    location_name: 'Granada',
+    date: '7/2022'
+  },
+  {
+    lower: 548,
+    middle: 608,
+    upper: 633,
+    location_name: 'Guadalajara',
+    date: '7/2022'
+  },
+  {
+    lower: 394,
+    middle: 608,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022'
+  },
+  {
+    lower: 550,
+    middle: 603,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022'
+  },
+  {
+    lower: 415,
+    middle: 467,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022'
+  },
+  {
+    lower: 524,
+    middle: 689,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022'
+  },
+  {
+    lower: 604,
+    middle: 690,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 482,
+    upper: 547,
+    location_name: 'León',
+    date: '7/2022'
+  },
+  {
+    lower: 722,
+    middle: 609,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022'
+  },
+  {
+    lower: 326,
+    middle: 289,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022'
+  },
+  {
+    lower: 725,
+    middle: 817,
+    upper: 1372,
+    location_name: 'Madrid',
+    date: '7/2022'
+  },
+  {
+    lower: 729,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022'
+  },
+  {
+    lower: 480,
+    middle: 596,
+    upper: 582,
+    location_name: 'Murcia',
+    date: '7/2022'
+  },
+  {
+    lower: 729,
+    middle: 624,
+    upper: 831,
+    location_name: 'Navarra',
+    date: '7/2022'
+  },
+  {
+    lower: 407,
+    middle: 484,
+    upper: 499,
+    location_name: 'Ourense',
+    date: '7/2022'
+  },
+  {
+    lower: 418,
+    middle: 401,
+    upper: 450,
+    location_name: 'Palencia',
+    date: '7/2022'
+  },
+  {
+    lower: 484,
+    middle: 515,
+    upper: 1622,
+    location_name: 'Pontevedra',
+    date: '7/2022'
+  },
+  {
+    lower: 537,
+    middle: 550,
+    upper: 616,
+    location_name: 'Salamanca',
+    date: '7/2022'
+  },
+  {
+    lower: 686,
+    middle: 731,
+    upper: 836,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022'
+  },
+  {
+    lower: 375,
+    middle: 634,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022'
+  },
+  {
+    lower: 593,
+    middle: 991,
+    upper: 790,
+    location_name: 'Sevilla',
+    date: '7/2022'
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022'
+  },
+  {
+    lower: 498,
+    middle: 570,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 415,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022'
+  },
+  {
+    lower: 377,
+    middle: 402,
+    upper: 541,
+    location_name: 'Toledo',
+    date: '7/2022'
+  },
+  {
+    lower: 624,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022'
+  },
+  {
+    lower: 471,
+    middle: 517,
+    upper: 604,
+    location_name: 'Valladolid',
+    date: '7/2022'
+  },
+  {
+    lower: 398,
+    middle: 400,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022'
+  },
+  {
+    lower: 506,
+    middle: 523,
+    upper: 652,
+    location_name: 'Zaragoza',
+    date: '7/2022'
+  },
+  {
+    lower: 469,
+    middle: 503,
+    upper: 723,
+    location_name: 'A Coruña',
+    date: '8/2022'
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022'
+  },
+  {
+    lower: 467,
+    middle: 533,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022'
+  },
+  {
+    lower: 444,
+    middle: 588,
+    upper: 864,
+    location_name: 'Alacant',
+    date: '8/2022'
+  },
+  {
+    lower: 439,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022'
+  },
+  {
+    lower: 469,
+    middle: 491,
+    upper: 1250,
+    location_name: 'Asturias',
+    date: '8/2022'
+  },
+  {
+    lower: 359,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022'
+  },
+  {
+    lower: 305,
+    middle: 278,
+    upper: 616,
+    location_name: 'Badajoz',
+    date: '8/2022'
+  },
+  {
+    lower: 890,
+    middle: 971,
+    upper: 2497,
+    location_name: 'Illes Balears',
+    date: '8/2022'
+  },
+  {
+    lower: 715,
+    middle: 851,
+    upper: 1340,
+    location_name: 'Barcelona',
+    date: '8/2022'
+  },
+  {
+    lower: 776,
+    middle: 828,
+    upper: 997,
+    location_name: 'Bizkaia',
+    date: '8/2022'
+  },
+  {
+    lower: 571,
+    middle: 569,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022'
+  },
+  {
+    lower: 381,
+    middle: 432,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022'
+  },
+  {
+    lower: 471,
+    middle: 598,
+    upper: 1499,
+    location_name: 'Cádiz',
+    date: '8/2022'
+  },
+  {
+    lower: 565,
+    middle: 653,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022'
+  },
+  {
+    lower: 966,
+    middle: 459,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022'
+  },
+  {
+    lower: 349,
+    middle: 416,
+    upper: 411,
+    location_name: 'Ciudad Real',
+    date: '8/2022'
+  },
+  {
+    lower: 400,
+    middle: 428,
+    upper: 660,
+    location_name: 'Córdoba',
+    date: '8/2022'
+  },
+  {
+    lower: 630,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022'
+  },
+  {
+    lower: 1195,
+    middle: 1043,
+    upper: 3016,
+    location_name: 'Gipuzkoa',
+    date: '8/2022'
+  },
+  {
+    lower: 608,
+    middle: 624,
+    upper: 2352,
+    location_name: 'Girona',
+    date: '8/2022'
+  },
+  {
+    lower: 416,
+    middle: 613,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022'
+  },
+  {
+    lower: 579,
+    middle: 448,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022'
+  },
+  {
+    lower: 424,
+    middle: 431,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022'
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022'
+  },
+  {
+    lower: 376,
+    middle: 412,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 465,
+    upper: 573,
+    location_name: 'La Rioja',
+    date: '8/2022'
+  },
+  {
+    lower: 572,
+    middle: 707,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022'
+  },
+  {
+    lower: 416,
+    middle: 415,
+    upper: 443,
+    location_name: 'León',
+    date: '8/2022'
+  },
+  {
+    lower: 653,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022'
+  },
+  {
+    lower: 835,
+    middle: 1125,
+    upper: 833,
+    location_name: 'Lugo',
+    date: '8/2022'
+  },
+  {
+    lower: 658,
+    middle: 1123,
+    upper: 1346,
+    location_name: 'Madrid',
+    date: '8/2022'
+  },
+  {
+    lower: 573,
+    middle: 1154,
+    upper: 850,
+    location_name: 'Málaga',
+    date: '8/2022'
+  },
+  {
+    lower: 371,
+    middle: 626,
+    upper: 805,
+    location_name: 'Murcia',
+    date: '8/2022'
+  },
+  {
+    lower: 750,
+    middle: 744,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022'
+  },
+  {
+    lower: 335,
+    middle: 364,
+    upper: 532,
+    location_name: 'Ourense',
+    date: '8/2022'
+  },
+  {
+    lower: 396,
+    middle: 415,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022'
+  },
+  {
+    lower: 632,
+    middle: 538,
+    upper: 1345,
+    location_name: 'Pontevedra',
+    date: '8/2022'
+  },
+  {
+    lower: 455,
+    middle: 572,
+    upper: 644,
+    location_name: 'Salamanca',
+    date: '8/2022'
+  },
+  {
+    lower: 598,
+    middle: 698,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022'
+  },
+  {
+    lower: 488,
+    middle: 507,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022'
+  },
+  {
+    lower: 509,
+    middle: 762,
+    upper: 784,
+    location_name: 'Sevilla',
+    date: '8/2022'
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022'
+  },
+  {
+    lower: 706,
+    middle: 807,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022'
+  },
+  {
+    lower: 300,
+    middle: 240,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022'
+  },
+  {
+    lower: 367,
+    middle: 270,
+    upper: 606,
+    location_name: 'Toledo',
+    date: '8/2022'
+  },
+  {
+    lower: 870,
+    middle: 708,
+    upper: 1683,
+    location_name: 'València',
+    date: '8/2022'
+  },
+  {
+    lower: 464,
+    middle: 534,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022'
+  },
+  {
+    lower: 435,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022'
+  },
+  {
+    lower: 514,
+    middle: 554,
+    upper: 641,
+    location_name: 'Zaragoza',
+    date: '8/2022'
+  },
+  ... 150 more items
+]
+saved_prices []
+new_prices [
+  {
+    lower: 448,
+    middle: 523,
+    upper: 629,
+    location_name: 'A Coruña',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 487,
+    middle: 547,
+    upper: 1051,
+    location_name: 'Alacant',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 432,
+    middle: 582,
+    upper: 642,
+    location_name: 'Albacete',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 439,
+    middle: 393,
+    upper: 786,
+    location_name: 'Almería',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 758,
+    middle: 818,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 471,
+    middle: 470,
+    upper: 650,
+    location_name: 'Asturias',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 352,
+    middle: 468,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 780,
+    middle: 975,
+    upper: 1367,
+    location_name: 'Barcelona',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 811,
+    middle: 841,
+    upper: 1150,
+    location_name: 'Bizkaia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 424,
+    middle: 457,
+    upper: 664,
+    location_name: 'Burgos',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 742,
+    middle: 790,
+    upper: 2100,
+    location_name: 'Cantabria',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 760,
+    middle: 816,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 400,
+    middle: 392,
+    upper: 476,
+    location_name: 'Ciudad Real',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 409,
+    middle: 458,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 419,
+    middle: 459,
+    upper: 579,
+    location_name: 'Cáceres',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 533,
+    middle: 692,
+    upper: 1644,
+    location_name: 'Cádiz',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 338,
+    middle: 448,
+    upper: 602,
+    location_name: 'Córdoba',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 624,
+    middle: 653,
+    upper: 1307,
+    location_name: 'Gipuzkoa',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 582,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Girona',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 421,
+    middle: 629,
+    upper: 665,
+    location_name: 'Granada',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 542,
+    middle: 605,
+    upper: 627,
+    location_name: 'Guadalajara',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 567,
+    middle: 746,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 550,
+    middle: 569,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 836,
+    middle: 978,
+    upper: 1570,
+    location_name: 'Illes Balears',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 418,
+    middle: 493,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 524,
+    middle: 672,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 601,
+    middle: 699,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 417,
+    middle: 504,
+    upper: 615,
+    location_name: 'León',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 674,
+    middle: 620,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 328,
+    middle: 314,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 785,
+    middle: 967,
+    upper: 1349,
+    location_name: 'Madrid',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 480,
+    middle: 601,
+    upper: 694,
+    location_name: 'Murcia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 736,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 723,
+    middle: 752,
+    upper: 867,
+    location_name: 'Navarra',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 416,
+    middle: 493,
+    upper: 516,
+    location_name: 'Ourense',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 439,
+    middle: 451,
+    upper: 467,
+    location_name: 'Palencia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 493,
+    middle: 502,
+    upper: 1694,
+    location_name: 'Pontevedra',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 545,
+    middle: 605,
+    upper: 712,
+    location_name: 'Salamanca',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 747,
+    middle: 751,
+    upper: 816,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 440,
+    middle: 689,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 650,
+    middle: 1106,
+    upper: 834,
+    location_name: 'Sevilla',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 500,
+    middle: 553,
+    upper: 762,
+    location_name: 'Tarragona',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 389,
+    middle: 452,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 389,
+    middle: 454,
+    upper: 615,
+    location_name: 'Toledo',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 501,
+    middle: 533,
+    upper: 586,
+    location_name: 'Valladolid',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 628,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 423,
+    middle: 425,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 566,
+    middle: 618,
+    upper: 721,
+    location_name: 'Zaragoza',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022',
+    month: 7,
+    year: 2022
+  },
+  {
+    lower: 408,
+    middle: 421,
+    upper: 758,
+    location_name: 'A Coruña',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 466,
+    middle: 618,
+    upper: 1036,
+    location_name: 'Alacant',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 506,
+    middle: 560,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 444,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 478,
+    middle: 513,
+    upper: 1412,
+    location_name: 'Asturias',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 308,
+    middle: 405,
+    upper: 651,
+    location_name: 'Badajoz',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 740,
+    middle: 894,
+    upper: 1373,
+    location_name: 'Barcelona',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 784,
+    middle: 854,
+    upper: 1033,
+    location_name: 'Bizkaia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 591,
+    middle: 563,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 565,
+    middle: 682,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 1084,
+    middle: 622,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 374,
+    middle: 430,
+    upper: 442,
+    location_name: 'Ciudad Real',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 635,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 358,
+    middle: 476,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 496,
+    middle: 594,
+    upper: 500,
+    location_name: 'Cádiz',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 457,
+    middle: 497,
+    upper: 731,
+    location_name: 'Córdoba',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 1111,
+    middle: 1184,
+    upper: 2876,
+    location_name: 'Gipuzkoa',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 608,
+    middle: 693,
+    upper: 2500,
+    location_name: 'Girona',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 487,
+    middle: 626,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 592,
+    middle: 589,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 424,
+    middle: 424,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 902,
+    middle: 1166,
+    upper: 2753,
+    location_name: 'Illes Balears',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 378,
+    middle: 413,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 358,
+    middle: 475,
+    upper: 693,
+    location_name: 'La Rioja',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 572,
+    middle: 717,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 405,
+    middle: 476,
+    upper: 493,
+    location_name: 'León',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 434,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 997,
+    middle: 1125,
+    upper: 950,
+    location_name: 'Lugo',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 719,
+    middle: 1238,
+    upper: 1571,
+    location_name: 'Madrid',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 468,
+    middle: 621,
+    upper: 882,
+    location_name: 'Murcia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 616,
+    middle: 1232,
+    upper: 1228,
+    location_name: 'Málaga',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 782,
+    middle: 801,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 306,
+    middle: 357,
+    upper: 530,
+    location_name: 'Ourense',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 401,
+    middle: 468,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 678,
+    middle: 619,
+    upper: 1084,
+    location_name: 'Pontevedra',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 507,
+    middle: 585,
+    upper: 679,
+    location_name: 'Salamanca',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 633,
+    middle: 708,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 473,
+    middle: 490,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 549,
+    middle: 814,
+    upper: 921,
+    location_name: 'Sevilla',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 750,
+    middle: 751,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 300,
+    middle: 272,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 377,
+    middle: 339,
+    upper: 656,
+    location_name: 'Toledo',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 441,
+    middle: 523,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 891,
+    middle: 795,
+    upper: 1720,
+    location_name: 'València',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 449,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 566,
+    middle: 650,
+    upper: 699,
+    location_name: 'Zaragoza',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  {
+    lower: 308,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022',
+    month: 8,
+    year: 2022
+  },
+  ... 150 more items
+]
+predicted_prices [
+  {
+    lower: 448,
+    middle: 523,
+    upper: 629,
+    location_name: 'A Coruña',
+    date: '7/2022'
+  },
+  {
+    lower: 487,
+    middle: 547,
+    upper: 1051,
+    location_name: 'Alacant',
+    date: '7/2022'
+  },
+  {
+    lower: 432,
+    middle: 582,
+    upper: 642,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 439,
+    middle: 393,
+    upper: 786,
+    location_name: 'Almería',
+    date: '7/2022'
+  },
+  {
+    lower: 758,
+    middle: 818,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022'
+  },
+  {
+    lower: 471,
+    middle: 470,
+    upper: 650,
+    location_name: 'Asturias',
+    date: '7/2022'
+  },
+  {
+    lower: 352,
+    middle: 468,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022'
+  },
+  {
+    lower: 780,
+    middle: 975,
+    upper: 1367,
+    location_name: 'Barcelona',
+    date: '7/2022'
+  },
+  {
+    lower: 811,
+    middle: 841,
+    upper: 1150,
+    location_name: 'Bizkaia',
+    date: '7/2022'
+  },
+  {
+    lower: 424,
+    middle: 457,
+    upper: 664,
+    location_name: 'Burgos',
+    date: '7/2022'
+  },
+  {
+    lower: 742,
+    middle: 790,
+    upper: 2100,
+    location_name: 'Cantabria',
+    date: '7/2022'
+  },
+  {
+    lower: 760,
+    middle: 816,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022'
+  },
+  {
+    lower: 400,
+    middle: 392,
+    upper: 476,
+    location_name: 'Ciudad Real',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 458,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022'
+  },
+  {
+    lower: 419,
+    middle: 459,
+    upper: 579,
+    location_name: 'Cáceres',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 692,
+    upper: 1644,
+    location_name: 'Cádiz',
+    date: '7/2022'
+  },
+  {
+    lower: 338,
+    middle: 448,
+    upper: 602,
+    location_name: 'Córdoba',
+    date: '7/2022'
+  },
+  {
+    lower: 624,
+    middle: 653,
+    upper: 1307,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 582,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Girona',
+    date: '7/2022'
+  },
+  {
+    lower: 421,
+    middle: 629,
+    upper: 665,
+    location_name: 'Granada',
+    date: '7/2022'
+  },
+  {
+    lower: 542,
+    middle: 605,
+    upper: 627,
+    location_name: 'Guadalajara',
+    date: '7/2022'
+  },
+  {
+    lower: 567,
+    middle: 746,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022'
+  },
+  {
+    lower: 550,
+    middle: 569,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022'
+  },
+  {
+    lower: 836,
+    middle: 978,
+    upper: 1570,
+    location_name: 'Illes Balears',
+    date: '7/2022'
+  },
+  {
+    lower: 418,
+    middle: 493,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022'
+  },
+  {
+    lower: 524,
+    middle: 672,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022'
+  },
+  {
+    lower: 601,
+    middle: 699,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022'
+  },
+  {
+    lower: 417,
+    middle: 504,
+    upper: 615,
+    location_name: 'León',
+    date: '7/2022'
+  },
+  {
+    lower: 674,
+    middle: 620,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022'
+  },
+  {
+    lower: 328,
+    middle: 314,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022'
+  },
+  {
+    lower: 785,
+    middle: 967,
+    upper: 1349,
+    location_name: 'Madrid',
+    date: '7/2022'
+  },
+  {
+    lower: 480,
+    middle: 601,
+    upper: 694,
+    location_name: 'Murcia',
+    date: '7/2022'
+  },
+  {
+    lower: 736,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022'
+  },
+  {
+    lower: 723,
+    middle: 752,
+    upper: 867,
+    location_name: 'Navarra',
+    date: '7/2022'
+  },
+  {
+    lower: 416,
+    middle: 493,
+    upper: 516,
+    location_name: 'Ourense',
+    date: '7/2022'
+  },
+  {
+    lower: 439,
+    middle: 451,
+    upper: 467,
+    location_name: 'Palencia',
+    date: '7/2022'
+  },
+  {
+    lower: 493,
+    middle: 502,
+    upper: 1694,
+    location_name: 'Pontevedra',
+    date: '7/2022'
+  },
+  {
+    lower: 545,
+    middle: 605,
+    upper: 712,
+    location_name: 'Salamanca',
+    date: '7/2022'
+  },
+  {
+    lower: 747,
+    middle: 751,
+    upper: 816,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022'
+  },
+  {
+    lower: 440,
+    middle: 689,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022'
+  },
+  {
+    lower: 650,
+    middle: 1106,
+    upper: 834,
+    location_name: 'Sevilla',
+    date: '7/2022'
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022'
+  },
+  {
+    lower: 500,
+    middle: 553,
+    upper: 762,
+    location_name: 'Tarragona',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 452,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 454,
+    upper: 615,
+    location_name: 'Toledo',
+    date: '7/2022'
+  },
+  {
+    lower: 501,
+    middle: 533,
+    upper: 586,
+    location_name: 'Valladolid',
+    date: '7/2022'
+  },
+  {
+    lower: 628,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022'
+  },
+  {
+    lower: 423,
+    middle: 425,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022'
+  },
+  {
+    lower: 566,
+    middle: 618,
+    upper: 721,
+    location_name: 'Zaragoza',
+    date: '7/2022'
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022'
+  },
+  {
+    lower: 408,
+    middle: 421,
+    upper: 758,
+    location_name: 'A Coruña',
+    date: '8/2022'
+  },
+  {
+    lower: 466,
+    middle: 618,
+    upper: 1036,
+    location_name: 'Alacant',
+    date: '8/2022'
+  },
+  {
+    lower: 506,
+    middle: 560,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022'
+  },
+  {
+    lower: 444,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022'
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022'
+  },
+  {
+    lower: 478,
+    middle: 513,
+    upper: 1412,
+    location_name: 'Asturias',
+    date: '8/2022'
+  },
+  {
+    lower: 308,
+    middle: 405,
+    upper: 651,
+    location_name: 'Badajoz',
+    date: '8/2022'
+  },
+  {
+    lower: 740,
+    middle: 894,
+    upper: 1373,
+    location_name: 'Barcelona',
+    date: '8/2022'
+  },
+  {
+    lower: 784,
+    middle: 854,
+    upper: 1033,
+    location_name: 'Bizkaia',
+    date: '8/2022'
+  },
+  {
+    lower: 591,
+    middle: 563,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022'
+  },
+  {
+    lower: 565,
+    middle: 682,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022'
+  },
+  {
+    lower: 1084,
+    middle: 622,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022'
+  },
+  {
+    lower: 374,
+    middle: 430,
+    upper: 442,
+    location_name: 'Ciudad Real',
+    date: '8/2022'
+  },
+  {
+    lower: 635,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 476,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022'
+  },
+  {
+    lower: 496,
+    middle: 594,
+    upper: 500,
+    location_name: 'Cádiz',
+    date: '8/2022'
+  },
+  {
+    lower: 457,
+    middle: 497,
+    upper: 731,
+    location_name: 'Córdoba',
+    date: '8/2022'
+  },
+  {
+    lower: 1111,
+    middle: 1184,
+    upper: 2876,
+    location_name: 'Gipuzkoa',
+    date: '8/2022'
+  },
+  {
+    lower: 608,
+    middle: 693,
+    upper: 2500,
+    location_name: 'Girona',
+    date: '8/2022'
+  },
+  {
+    lower: 487,
+    middle: 626,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022'
+  },
+  {
+    lower: 592,
+    middle: 589,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022'
+  },
+  {
+    lower: 424,
+    middle: 424,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022'
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022'
+  },
+  {
+    lower: 902,
+    middle: 1166,
+    upper: 2753,
+    location_name: 'Illes Balears',
+    date: '8/2022'
+  },
+  {
+    lower: 378,
+    middle: 413,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 475,
+    upper: 693,
+    location_name: 'La Rioja',
+    date: '8/2022'
+  },
+  {
+    lower: 572,
+    middle: 717,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022'
+  },
+  {
+    lower: 405,
+    middle: 476,
+    upper: 493,
+    location_name: 'León',
+    date: '8/2022'
+  },
+  {
+    lower: 434,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022'
+  },
+  {
+    lower: 997,
+    middle: 1125,
+    upper: 950,
+    location_name: 'Lugo',
+    date: '8/2022'
+  },
+  {
+    lower: 719,
+    middle: 1238,
+    upper: 1571,
+    location_name: 'Madrid',
+    date: '8/2022'
+  },
+  {
+    lower: 468,
+    middle: 621,
+    upper: 882,
+    location_name: 'Murcia',
+    date: '8/2022'
+  },
+  {
+    lower: 616,
+    middle: 1232,
+    upper: 1228,
+    location_name: 'Málaga',
+    date: '8/2022'
+  },
+  {
+    lower: 782,
+    middle: 801,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022'
+  },
+  {
+    lower: 306,
+    middle: 357,
+    upper: 530,
+    location_name: 'Ourense',
+    date: '8/2022'
+  },
+  {
+    lower: 401,
+    middle: 468,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022'
+  },
+  {
+    lower: 678,
+    middle: 619,
+    upper: 1084,
+    location_name: 'Pontevedra',
+    date: '8/2022'
+  },
+  {
+    lower: 507,
+    middle: 585,
+    upper: 679,
+    location_name: 'Salamanca',
+    date: '8/2022'
+  },
+  {
+    lower: 633,
+    middle: 708,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022'
+  },
+  {
+    lower: 473,
+    middle: 490,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022'
+  },
+  {
+    lower: 549,
+    middle: 814,
+    upper: 921,
+    location_name: 'Sevilla',
+    date: '8/2022'
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022'
+  },
+  {
+    lower: 750,
+    middle: 751,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022'
+  },
+  {
+    lower: 300,
+    middle: 272,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022'
+  },
+  {
+    lower: 377,
+    middle: 339,
+    upper: 656,
+    location_name: 'Toledo',
+    date: '8/2022'
+  },
+  {
+    lower: 441,
+    middle: 523,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022'
+  },
+  {
+    lower: 891,
+    middle: 795,
+    upper: 1720,
+    location_name: 'València',
+    date: '8/2022'
+  },
+  {
+    lower: 449,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022'
+  },
+  {
+    lower: 566,
+    middle: 650,
+    upper: 699,
+    location_name: 'Zaragoza',
+    date: '8/2022'
+  },
+  {
+    lower: 308,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022'
+  },
+  ... 150 more items
+]
+saved_prices [
+  {
+    lower: 448,
+    middle: 523,
+    upper: 629,
+    location_name: 'A Coruña',
+    date: '7/2022'
+  },
+  {
+    lower: 758,
+    middle: 818,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022'
+  },
+  {
+    lower: 432,
+    middle: 582,
+    upper: 642,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 487,
+    middle: 547,
+    upper: 1051,
+    location_name: 'Alacant',
+    date: '7/2022'
+  },
+  {
+    lower: 439,
+    middle: 393,
+    upper: 786,
+    location_name: 'Almería',
+    date: '7/2022'
+  },
+  {
+    lower: 471,
+    middle: 470,
+    upper: 650,
+    location_name: 'Asturias',
+    date: '7/2022'
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022'
+  },
+  {
+    lower: 352,
+    middle: 468,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022'
+  },
+  {
+    lower: 836,
+    middle: 978,
+    upper: 1570,
+    location_name: 'Illes Balears',
+    date: '7/2022'
+  },
+  {
+    lower: 780,
+    middle: 975,
+    upper: 1367,
+    location_name: 'Barcelona',
+    date: '7/2022'
+  },
+  {
+    lower: 811,
+    middle: 841,
+    upper: 1150,
+    location_name: 'Bizkaia',
+    date: '7/2022'
+  },
+  {
+    lower: 424,
+    middle: 457,
+    upper: 664,
+    location_name: 'Burgos',
+    date: '7/2022'
+  },
+  {
+    lower: 419,
+    middle: 459,
+    upper: 579,
+    location_name: 'Cáceres',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 692,
+    upper: 1644,
+    location_name: 'Cádiz',
+    date: '7/2022'
+  },
+  {
+    lower: 742,
+    middle: 790,
+    upper: 2100,
+    location_name: 'Cantabria',
+    date: '7/2022'
+  },
+  {
+    lower: 760,
+    middle: 816,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022'
+  },
+  {
+    lower: 400,
+    middle: 392,
+    upper: 476,
+    location_name: 'Ciudad Real',
+    date: '7/2022'
+  },
+  {
+    lower: 338,
+    middle: 448,
+    upper: 602,
+    location_name: 'Córdoba',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 458,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022'
+  },
+  {
+    lower: 624,
+    middle: 653,
+    upper: 1307,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 582,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Girona',
+    date: '7/2022'
+  },
+  {
+    lower: 421,
+    middle: 629,
+    upper: 665,
+    location_name: 'Granada',
+    date: '7/2022'
+  },
+  {
+    lower: 542,
+    middle: 605,
+    upper: 627,
+    location_name: 'Guadalajara',
+    date: '7/2022'
+  },
+  {
+    lower: 567,
+    middle: 746,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022'
+  },
+  {
+    lower: 550,
+    middle: 569,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022'
+  },
+  {
+    lower: 418,
+    middle: 493,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022'
+  },
+  {
+    lower: 524,
+    middle: 672,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022'
+  },
+  {
+    lower: 601,
+    middle: 699,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022'
+  },
+  {
+    lower: 417,
+    middle: 504,
+    upper: 615,
+    location_name: 'León',
+    date: '7/2022'
+  },
+  {
+    lower: 674,
+    middle: 620,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022'
+  },
+  {
+    lower: 328,
+    middle: 314,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022'
+  },
+  {
+    lower: 785,
+    middle: 967,
+    upper: 1349,
+    location_name: 'Madrid',
+    date: '7/2022'
+  },
+  {
+    lower: 736,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022'
+  },
+  {
+    lower: 480,
+    middle: 601,
+    upper: 694,
+    location_name: 'Murcia',
+    date: '7/2022'
+  },
+  {
+    lower: 723,
+    middle: 752,
+    upper: 867,
+    location_name: 'Navarra',
+    date: '7/2022'
+  },
+  {
+    lower: 416,
+    middle: 493,
+    upper: 516,
+    location_name: 'Ourense',
+    date: '7/2022'
+  },
+  {
+    lower: 439,
+    middle: 451,
+    upper: 467,
+    location_name: 'Palencia',
+    date: '7/2022'
+  },
+  {
+    lower: 493,
+    middle: 502,
+    upper: 1694,
+    location_name: 'Pontevedra',
+    date: '7/2022'
+  },
+  {
+    lower: 545,
+    middle: 605,
+    upper: 712,
+    location_name: 'Salamanca',
+    date: '7/2022'
+  },
+  {
+    lower: 747,
+    middle: 751,
+    upper: 816,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022'
+  },
+  {
+    lower: 440,
+    middle: 689,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022'
+  },
+  {
+    lower: 650,
+    middle: 1106,
+    upper: 834,
+    location_name: 'Sevilla',
+    date: '7/2022'
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022'
+  },
+  {
+    lower: 500,
+    middle: 553,
+    upper: 762,
+    location_name: 'Tarragona',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 452,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 454,
+    upper: 615,
+    location_name: 'Toledo',
+    date: '7/2022'
+  },
+  {
+    lower: 628,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022'
+  },
+  {
+    lower: 501,
+    middle: 533,
+    upper: 586,
+    location_name: 'Valladolid',
+    date: '7/2022'
+  },
+  {
+    lower: 423,
+    middle: 425,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022'
+  },
+  {
+    lower: 566,
+    middle: 618,
+    upper: 721,
+    location_name: 'Zaragoza',
+    date: '7/2022'
+  },
+  {
+    lower: 408,
+    middle: 421,
+    upper: 758,
+    location_name: 'A Coruña',
+    date: '8/2022'
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022'
+  },
+  {
+    lower: 506,
+    middle: 560,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022'
+  },
+  {
+    lower: 466,
+    middle: 618,
+    upper: 1036,
+    location_name: 'Alacant',
+    date: '8/2022'
+  },
+  {
+    lower: 444,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022'
+  },
+  {
+    lower: 478,
+    middle: 513,
+    upper: 1412,
+    location_name: 'Asturias',
+    date: '8/2022'
+  },
+  {
+    lower: 308,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022'
+  },
+  {
+    lower: 308,
+    middle: 405,
+    upper: 651,
+    location_name: 'Badajoz',
+    date: '8/2022'
+  },
+  {
+    lower: 902,
+    middle: 1166,
+    upper: 2753,
+    location_name: 'Illes Balears',
+    date: '8/2022'
+  },
+  {
+    lower: 740,
+    middle: 894,
+    upper: 1373,
+    location_name: 'Barcelona',
+    date: '8/2022'
+  },
+  {
+    lower: 784,
+    middle: 854,
+    upper: 1033,
+    location_name: 'Bizkaia',
+    date: '8/2022'
+  },
+  {
+    lower: 591,
+    middle: 563,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 476,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022'
+  },
+  {
+    lower: 496,
+    middle: 594,
+    upper: 500,
+    location_name: 'Cádiz',
+    date: '8/2022'
+  },
+  {
+    lower: 565,
+    middle: 682,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022'
+  },
+  {
+    lower: 1084,
+    middle: 622,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022'
+  },
+  {
+    lower: 374,
+    middle: 430,
+    upper: 442,
+    location_name: 'Ciudad Real',
+    date: '8/2022'
+  },
+  {
+    lower: 457,
+    middle: 497,
+    upper: 731,
+    location_name: 'Córdoba',
+    date: '8/2022'
+  },
+  {
+    lower: 635,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022'
+  },
+  {
+    lower: 1111,
+    middle: 1184,
+    upper: 2876,
+    location_name: 'Gipuzkoa',
+    date: '8/2022'
+  },
+  {
+    lower: 608,
+    middle: 693,
+    upper: 2500,
+    location_name: 'Girona',
+    date: '8/2022'
+  },
+  {
+    lower: 487,
+    middle: 626,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022'
+  },
+  {
+    lower: 592,
+    middle: 589,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022'
+  },
+  {
+    lower: 424,
+    middle: 424,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022'
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022'
+  },
+  {
+    lower: 378,
+    middle: 413,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 475,
+    upper: 693,
+    location_name: 'La Rioja',
+    date: '8/2022'
+  },
+  {
+    lower: 572,
+    middle: 717,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022'
+  },
+  {
+    lower: 405,
+    middle: 476,
+    upper: 493,
+    location_name: 'León',
+    date: '8/2022'
+  },
+  {
+    lower: 434,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022'
+  },
+  {
+    lower: 997,
+    middle: 1125,
+    upper: 950,
+    location_name: 'Lugo',
+    date: '8/2022'
+  },
+  {
+    lower: 719,
+    middle: 1238,
+    upper: 1571,
+    location_name: 'Madrid',
+    date: '8/2022'
+  },
+  {
+    lower: 616,
+    middle: 1232,
+    upper: 1228,
+    location_name: 'Málaga',
+    date: '8/2022'
+  },
+  {
+    lower: 468,
+    middle: 621,
+    upper: 882,
+    location_name: 'Murcia',
+    date: '8/2022'
+  },
+  {
+    lower: 782,
+    middle: 801,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022'
+  },
+  {
+    lower: 306,
+    middle: 357,
+    upper: 530,
+    location_name: 'Ourense',
+    date: '8/2022'
+  },
+  {
+    lower: 401,
+    middle: 468,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022'
+  },
+  {
+    lower: 678,
+    middle: 619,
+    upper: 1084,
+    location_name: 'Pontevedra',
+    date: '8/2022'
+  },
+  {
+    lower: 507,
+    middle: 585,
+    upper: 679,
+    location_name: 'Salamanca',
+    date: '8/2022'
+  },
+  {
+    lower: 633,
+    middle: 708,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022'
+  },
+  {
+    lower: 473,
+    middle: 490,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022'
+  },
+  {
+    lower: 549,
+    middle: 814,
+    upper: 921,
+    location_name: 'Sevilla',
+    date: '8/2022'
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022'
+  },
+  {
+    lower: 750,
+    middle: 751,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022'
+  },
+  {
+    lower: 300,
+    middle: 272,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022'
+  },
+  {
+    lower: 377,
+    middle: 339,
+    upper: 656,
+    location_name: 'Toledo',
+    date: '8/2022'
+  },
+  {
+    lower: 891,
+    middle: 795,
+    upper: 1720,
+    location_name: 'València',
+    date: '8/2022'
+  },
+  {
+    lower: 441,
+    middle: 523,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022'
+  },
+  {
+    lower: 449,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022'
+  },
+  {
+    lower: 566,
+    middle: 650,
+    upper: 699,
+    location_name: 'Zaragoza',
+    date: '8/2022'
+  },
+  ... 150 more items
+]
+new_prices []
+predicted_prices [
+  {
+    lower: 448,
+    middle: 523,
+    upper: 629,
+    location_name: 'A Coruña',
+    date: '7/2022'
+  },
+  {
+    lower: 758,
+    middle: 818,
+    upper: 1290,
+    location_name: 'Araba',
+    date: '7/2022'
+  },
+  {
+    lower: 432,
+    middle: 582,
+    upper: 642,
+    location_name: 'Albacete',
+    date: '7/2022'
+  },
+  {
+    lower: 487,
+    middle: 547,
+    upper: 1051,
+    location_name: 'Alacant',
+    date: '7/2022'
+  },
+  {
+    lower: 439,
+    middle: 393,
+    upper: 786,
+    location_name: 'Almería',
+    date: '7/2022'
+  },
+  {
+    lower: 471,
+    middle: 470,
+    upper: 650,
+    location_name: 'Asturias',
+    date: '7/2022'
+  },
+  {
+    lower: 450,
+    middle: 450,
+    upper: 510,
+    location_name: 'Ávila',
+    date: '7/2022'
+  },
+  {
+    lower: 352,
+    middle: 468,
+    upper: 598,
+    location_name: 'Badajoz',
+    date: '7/2022'
+  },
+  {
+    lower: 836,
+    middle: 978,
+    upper: 1570,
+    location_name: 'Illes Balears',
+    date: '7/2022'
+  },
+  {
+    lower: 780,
+    middle: 975,
+    upper: 1367,
+    location_name: 'Barcelona',
+    date: '7/2022'
+  },
+  {
+    lower: 811,
+    middle: 841,
+    upper: 1150,
+    location_name: 'Bizkaia',
+    date: '7/2022'
+  },
+  {
+    lower: 424,
+    middle: 457,
+    upper: 664,
+    location_name: 'Burgos',
+    date: '7/2022'
+  },
+  {
+    lower: 419,
+    middle: 459,
+    upper: 579,
+    location_name: 'Cáceres',
+    date: '7/2022'
+  },
+  {
+    lower: 533,
+    middle: 692,
+    upper: 1644,
+    location_name: 'Cádiz',
+    date: '7/2022'
+  },
+  {
+    lower: 742,
+    middle: 790,
+    upper: 2100,
+    location_name: 'Cantabria',
+    date: '7/2022'
+  },
+  {
+    lower: 760,
+    middle: 816,
+    upper: 3000,
+    location_name: 'Castelló',
+    date: '7/2022'
+  },
+  {
+    lower: 400,
+    middle: 392,
+    upper: 476,
+    location_name: 'Ciudad Real',
+    date: '7/2022'
+  },
+  {
+    lower: 338,
+    middle: 448,
+    upper: 602,
+    location_name: 'Córdoba',
+    date: '7/2022'
+  },
+  {
+    lower: 409,
+    middle: 458,
+    upper: 600,
+    location_name: 'Cuenca',
+    date: '7/2022'
+  },
+  {
+    lower: 624,
+    middle: 653,
+    upper: 1307,
+    location_name: 'Gipuzkoa',
+    date: '7/2022'
+  },
+  {
+    lower: 582,
+    middle: 695,
+    upper: 1100,
+    location_name: 'Girona',
+    date: '7/2022'
+  },
+  {
+    lower: 421,
+    middle: 629,
+    upper: 665,
+    location_name: 'Granada',
+    date: '7/2022'
+  },
+  {
+    lower: 542,
+    middle: 605,
+    upper: 627,
+    location_name: 'Guadalajara',
+    date: '7/2022'
+  },
+  {
+    lower: 567,
+    middle: 746,
+    upper: 1500,
+    location_name: 'Huelva',
+    date: '7/2022'
+  },
+  {
+    lower: 550,
+    middle: 569,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '7/2022'
+  },
+  {
+    lower: 418,
+    middle: 493,
+    upper: -966,
+    location_name: 'Jaén',
+    date: '7/2022'
+  },
+  {
+    lower: 524,
+    middle: 672,
+    upper: 1259,
+    location_name: 'La Rioja',
+    date: '7/2022'
+  },
+  {
+    lower: 601,
+    middle: 699,
+    upper: 1204,
+    location_name: 'Las Palmas',
+    date: '7/2022'
+  },
+  {
+    lower: 417,
+    middle: 504,
+    upper: 615,
+    location_name: 'León',
+    date: '7/2022'
+  },
+  {
+    lower: 674,
+    middle: 620,
+    upper: 622,
+    location_name: 'Lleida',
+    date: '7/2022'
+  },
+  {
+    lower: 328,
+    middle: 314,
+    upper: 613,
+    location_name: 'Lugo',
+    date: '7/2022'
+  },
+  {
+    lower: 785,
+    middle: 967,
+    upper: 1349,
+    location_name: 'Madrid',
+    date: '7/2022'
+  },
+  {
+    lower: 736,
+    middle: 685,
+    upper: 912,
+    location_name: 'Málaga',
+    date: '7/2022'
+  },
+  {
+    lower: 480,
+    middle: 601,
+    upper: 694,
+    location_name: 'Murcia',
+    date: '7/2022'
+  },
+  {
+    lower: 723,
+    middle: 752,
+    upper: 867,
+    location_name: 'Navarra',
+    date: '7/2022'
+  },
+  {
+    lower: 416,
+    middle: 493,
+    upper: 516,
+    location_name: 'Ourense',
+    date: '7/2022'
+  },
+  {
+    lower: 439,
+    middle: 451,
+    upper: 467,
+    location_name: 'Palencia',
+    date: '7/2022'
+  },
+  {
+    lower: 493,
+    middle: 502,
+    upper: 1694,
+    location_name: 'Pontevedra',
+    date: '7/2022'
+  },
+  {
+    lower: 545,
+    middle: 605,
+    upper: 712,
+    location_name: 'Salamanca',
+    date: '7/2022'
+  },
+  {
+    lower: 747,
+    middle: 751,
+    upper: 816,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '7/2022'
+  },
+  {
+    lower: 440,
+    middle: 689,
+    upper: 816,
+    location_name: 'Segovia',
+    date: '7/2022'
+  },
+  {
+    lower: 650,
+    middle: 1106,
+    upper: 834,
+    location_name: 'Sevilla',
+    date: '7/2022'
+  },
+  {
+    lower: 586,
+    middle: 595,
+    upper: 584,
+    location_name: 'Soria',
+    date: '7/2022'
+  },
+  {
+    lower: 500,
+    middle: 553,
+    upper: 762,
+    location_name: 'Tarragona',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 452,
+    upper: 600,
+    location_name: 'Teruel',
+    date: '7/2022'
+  },
+  {
+    lower: 389,
+    middle: 454,
+    upper: 615,
+    location_name: 'Toledo',
+    date: '7/2022'
+  },
+  {
+    lower: 628,
+    middle: 762,
+    upper: 1212,
+    location_name: 'València',
+    date: '7/2022'
+  },
+  {
+    lower: 501,
+    middle: 533,
+    upper: 586,
+    location_name: 'Valladolid',
+    date: '7/2022'
+  },
+  {
+    lower: 423,
+    middle: 425,
+    upper: 474,
+    location_name: 'Zamora',
+    date: '7/2022'
+  },
+  {
+    lower: 566,
+    middle: 618,
+    upper: 721,
+    location_name: 'Zaragoza',
+    date: '7/2022'
+  },
+  {
+    lower: 408,
+    middle: 421,
+    upper: 758,
+    location_name: 'A Coruña',
+    date: '8/2022'
+  },
+  {
+    lower: 840,
+    middle: 937,
+    upper: 995,
+    location_name: 'Araba',
+    date: '8/2022'
+  },
+  {
+    lower: 506,
+    middle: 560,
+    upper: 598,
+    location_name: 'Albacete',
+    date: '8/2022'
+  },
+  {
+    lower: 466,
+    middle: 618,
+    upper: 1036,
+    location_name: 'Alacant',
+    date: '8/2022'
+  },
+  {
+    lower: 444,
+    middle: 486,
+    upper: 893,
+    location_name: 'Almería',
+    date: '8/2022'
+  },
+  {
+    lower: 478,
+    middle: 513,
+    upper: 1412,
+    location_name: 'Asturias',
+    date: '8/2022'
+  },
+  {
+    lower: 308,
+    middle: 309,
+    upper: 489,
+    location_name: 'Ávila',
+    date: '8/2022'
+  },
+  {
+    lower: 308,
+    middle: 405,
+    upper: 651,
+    location_name: 'Badajoz',
+    date: '8/2022'
+  },
+  {
+    lower: 902,
+    middle: 1166,
+    upper: 2753,
+    location_name: 'Illes Balears',
+    date: '8/2022'
+  },
+  {
+    lower: 740,
+    middle: 894,
+    upper: 1373,
+    location_name: 'Barcelona',
+    date: '8/2022'
+  },
+  {
+    lower: 784,
+    middle: 854,
+    upper: 1033,
+    location_name: 'Bizkaia',
+    date: '8/2022'
+  },
+  {
+    lower: 591,
+    middle: 563,
+    upper: 671,
+    location_name: 'Burgos',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 476,
+    upper: 699,
+    location_name: 'Cáceres',
+    date: '8/2022'
+  },
+  {
+    lower: 496,
+    middle: 594,
+    upper: 500,
+    location_name: 'Cádiz',
+    date: '8/2022'
+  },
+  {
+    lower: 565,
+    middle: 682,
+    upper: 1752,
+    location_name: 'Cantabria',
+    date: '8/2022'
+  },
+  {
+    lower: 1084,
+    middle: 622,
+    upper: 1015,
+    location_name: 'Castelló',
+    date: '8/2022'
+  },
+  {
+    lower: 374,
+    middle: 430,
+    upper: 442,
+    location_name: 'Ciudad Real',
+    date: '8/2022'
+  },
+  {
+    lower: 457,
+    middle: 497,
+    upper: 731,
+    location_name: 'Córdoba',
+    date: '8/2022'
+  },
+  {
+    lower: 635,
+    middle: 700,
+    upper: 749,
+    location_name: 'Cuenca',
+    date: '8/2022'
+  },
+  {
+    lower: 1111,
+    middle: 1184,
+    upper: 2876,
+    location_name: 'Gipuzkoa',
+    date: '8/2022'
+  },
+  {
+    lower: 608,
+    middle: 693,
+    upper: 2500,
+    location_name: 'Girona',
+    date: '8/2022'
+  },
+  {
+    lower: 487,
+    middle: 626,
+    upper: 752,
+    location_name: 'Granada',
+    date: '8/2022'
+  },
+  {
+    lower: 592,
+    middle: 589,
+    upper: 700,
+    location_name: 'Guadalajara',
+    date: '8/2022'
+  },
+  {
+    lower: 424,
+    middle: 424,
+    upper: -399,
+    location_name: 'Huelva',
+    date: '8/2022'
+  },
+  {
+    lower: 380,
+    middle: 412,
+    upper: 650,
+    location_name: 'Huesca',
+    date: '8/2022'
+  },
+  {
+    lower: 378,
+    middle: 413,
+    upper: 692,
+    location_name: 'Jaén',
+    date: '8/2022'
+  },
+  {
+    lower: 358,
+    middle: 475,
+    upper: 693,
+    location_name: 'La Rioja',
+    date: '8/2022'
+  },
+  {
+    lower: 572,
+    middle: 717,
+    upper: 1074,
+    location_name: 'Las Palmas',
+    date: '8/2022'
+  },
+  {
+    lower: 405,
+    middle: 476,
+    upper: 493,
+    location_name: 'León',
+    date: '8/2022'
+  },
+  {
+    lower: 434,
+    middle: 710,
+    upper: 750,
+    location_name: 'Lleida',
+    date: '8/2022'
+  },
+  {
+    lower: 997,
+    middle: 1125,
+    upper: 950,
+    location_name: 'Lugo',
+    date: '8/2022'
+  },
+  {
+    lower: 719,
+    middle: 1238,
+    upper: 1571,
+    location_name: 'Madrid',
+    date: '8/2022'
+  },
+  {
+    lower: 616,
+    middle: 1232,
+    upper: 1228,
+    location_name: 'Málaga',
+    date: '8/2022'
+  },
+  {
+    lower: 468,
+    middle: 621,
+    upper: 882,
+    location_name: 'Murcia',
+    date: '8/2022'
+  },
+  {
+    lower: 782,
+    middle: 801,
+    upper: 1062,
+    location_name: 'Navarra',
+    date: '8/2022'
+  },
+  {
+    lower: 306,
+    middle: 357,
+    upper: 530,
+    location_name: 'Ourense',
+    date: '8/2022'
+  },
+  {
+    lower: 401,
+    middle: 468,
+    upper: 550,
+    location_name: 'Palencia',
+    date: '8/2022'
+  },
+  {
+    lower: 678,
+    middle: 619,
+    upper: 1084,
+    location_name: 'Pontevedra',
+    date: '8/2022'
+  },
+  {
+    lower: 507,
+    middle: 585,
+    upper: 679,
+    location_name: 'Salamanca',
+    date: '8/2022'
+  },
+  {
+    lower: 633,
+    middle: 708,
+    upper: 872,
+    location_name: 'Santa Cruz de Tenerife',
+    date: '8/2022'
+  },
+  {
+    lower: 473,
+    middle: 490,
+    upper: 700,
+    location_name: 'Segovia',
+    date: '8/2022'
+  },
+  {
+    lower: 549,
+    middle: 814,
+    upper: 921,
+    location_name: 'Sevilla',
+    date: '8/2022'
+  },
+  {
+    lower: 524,
+    middle: 503,
+    upper: 800,
+    location_name: 'Soria',
+    date: '8/2022'
+  },
+  {
+    lower: 750,
+    middle: 751,
+    upper: 775,
+    location_name: 'Tarragona',
+    date: '8/2022'
+  },
+  {
+    lower: 300,
+    middle: 272,
+    upper: 574,
+    location_name: 'Teruel',
+    date: '8/2022'
+  },
+  {
+    lower: 377,
+    middle: 339,
+    upper: 656,
+    location_name: 'Toledo',
+    date: '8/2022'
+  },
+  {
+    lower: 891,
+    middle: 795,
+    upper: 1720,
+    location_name: 'València',
+    date: '8/2022'
+  },
+  {
+    lower: 441,
+    middle: 523,
+    upper: 685,
+    location_name: 'Valladolid',
+    date: '8/2022'
+  },
+  {
+    lower: 449,
+    middle: 457,
+    upper: 550,
+    location_name: 'Zamora',
+    date: '8/2022'
+  },
+  {
+    lower: 566,
+    middle: 650,
+    upper: 699,
+    location_name: 'Zaragoza',
+    date: '8/2022'
+  },
+  ... 150 more items
+]
