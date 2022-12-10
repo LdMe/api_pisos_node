@@ -66,13 +66,17 @@ const calculatePrices = async (params,todo_dates) => {
 }
 const cleanSavedPrices = (saved_prices) => {
     return saved_prices.map((price) => {
-        return { lower: price.lower, middle: price.middle, upper: price.upper, location_name: price.location_name, date: price.date };
+        let month = price.date.split("/")[0];
+        let year = price.date.split("/")[1];
+        return { lower: price.lower, middle: price.middle, upper: price.upper, location_name: price.location_name, date: price.date, month: month, year: year};
     });
 }
 
 const cleanPredictedPrices = (predicted_prices) => {
     return predicted_prices.map((price) => {
-        return { lower: price.lower, middle: price.middle, upper: price.upper, location_name: price.location_name, date: price.date };
+        let month = price.date.split("/")[0];
+        let year = price.date.split("/")[1];
+        return { lower: price.lower, middle: price.middle, upper: price.upper, location_name: price.location_name, date: price.date, month: month, year: year };
     });
 }
     
@@ -98,7 +102,10 @@ export const getPrices = async (req, res) => {
         logger.log("new_prices",new_prices);
         const predicted_prices = cleanPredictedPrices(new_prices);
         logger.log("predicted_prices",saved_prices.concat(predicted_prices));
-        const prices = { data: saved_prices.concat(predicted_prices) };
+        const unsortedPrices = saved_prices.concat(predicted_prices);
+       
+        const sortedPrices = unsortedPrices.sort((a,b) => (a.location_name.localeCompare(b.location_name) || a.year - b.year || a.month - b.month))
+        const prices = { data: sortedPrices };
         //console.log("prices", prices.data);
         /*prices.data.map (async (price) => {
             var date = await getOrCreate(Date,{ date: price.date });

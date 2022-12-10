@@ -54,6 +54,6 @@ const Price = sequelize.define('price', {
 });
 
 
-await Price.sync({ force: true });
+await Price.sync({ force: false });
 
 export default Price;
